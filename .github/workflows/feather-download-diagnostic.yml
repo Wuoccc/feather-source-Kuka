@@ -1,0 +1,41 @@
+name: Feather download URL diagnostic
+
+on:
+  push:
+    paths:
+      - ".github/workflows/feather-download-diagnostic.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test source and package URLs
+        run: |
+          python - <<'PY'
+          import json, urllib.request, urllib.error, re, ssl
+          source="https://raw.githubusercontent.com/Wuoccc/feather-source-Kuka/refs/heads/main/apps.json"
+          req=urllib.request.Request(source,headers={"User-Agent":"Feather-Diagnostic/1.0"})
+          with urllib.request.urlopen(req,timeout=30) as r:
+              raw=r.read()
+              print("SOURCE",r.status,r.headers.get("content-type"),len(raw))
+          d=json.loads(raw)
+          urls=[]
+          for a in d.get("apps",[]):
+              u=str(a.get("downloadURL") or "").strip()
+              if u and re.search(r"\.(ipa|tipa)(?:$|[?#])",u,re.I):
+                  urls.append((a.get("name"),u))
+          print("IPA_TIPA_COUNT",len(urls))
+          ok=0
+          for name,u in urls:
+              try:
+                  q=urllib.request.Request(u,method="HEAD",headers={"User-Agent":"Mozilla/5.0"})
+                  with urllib.request.urlopen(q,timeout=20) as r:
+                      print("URL",r.status,r.geturl(),r.headers.get("content-type"),r.headers.get("content-length"),name)
+                      if 200 <= r.status < 400: ok += 1
+              except Exception as e:
+                  print("ERR",type(e).__name__,str(e)[:300],name,u)
+          print("OK_COUNT",ok)
+          PY
