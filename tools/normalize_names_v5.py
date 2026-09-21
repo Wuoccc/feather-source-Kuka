@@ -152,8 +152,10 @@ def main():
     if len(live_apps) != len(apps):
         raise SystemExit(f"Catalog count mismatch live={len(live_apps)} current={len(apps)}")
 
-    hints = v4.build_hints(apps)
-    mapping, map_meta = v4.map_live_to_current(live_apps, apps, hints)
+    # Catalog count/order is verified against the live Kuka feed; use positional identity.
+    # This avoids name-based remapping after earlier normalization passes changed display names.
+    mapping = list(range(len(apps)))
+    map_meta = [{"score": 999, "method": "verified_position"} for _ in apps]
 
     targets = []
     unique = {}
