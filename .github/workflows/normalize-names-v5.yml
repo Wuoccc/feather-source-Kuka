@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - ".github/workflows/normalize-names-v5.yml"
+      - "tools/normalize_names_v5.py"
 
 permissions:
   contents: write
