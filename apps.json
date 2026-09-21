@@ -5,6 +5,366 @@
   "website": "https://app.ioskuka.com/appstore",
   "apps": [
     {
+      "name": "元气骑士",
+      "bundleIdentifier": "com.ioskuka.catalog.e093260e5076abbd3e91",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260816/c38ed2fb336923b3e3ca59cf81f7e057.png",
+      "localizedDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: xA0.",
+      "version": "8.5.1",
+      "versionDate": "2026-09-20T01:22:05+08:00",
+      "versionDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: xA0.",
+      "size": 774432858
+    },
+    {
+      "name": "梦想城镇",
+      "bundleIdentifier": "com.ioskuka.catalog.405fc924047109188cf8",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260715/a6c26bb2e22a49e4480347ddfb411b8c.png",
+      "localizedDescription": "✅ Có tích hợp plugin bổ sung.",
+      "version": "39.0.2",
+      "versionDate": "2026-09-20T01:22:05+08:00",
+      "versionDescription": "✅ Có tích hợp plugin bổ sung.",
+      "size": 186966606
+    },
+    {
+      "name": "模拟城市",
+      "bundleIdentifier": "com.ioskuka.catalog.cf252d181dcbae92689d",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260828/b855e8a86a97f30a3220a30066697450.png",
+      "localizedDescription": "✅ Không giới hạn tiền vàng.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: SimCity, BuildIt.",
+      "version": "1.82.3",
+      "versionDate": "2026-09-20T00:54:26+08:00",
+      "versionDescription": "✅ Không giới hạn tiền vàng.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: SimCity, BuildIt.",
+      "size": 279645366
+    },
+    {
+      "name": "大侠立志传",
+      "bundleIdentifier": "com.ioskuka.catalog.5ea4065a43f6a132832d",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260108/3b0b2a74cac78f3955990e532ae2bcc4.png",
+      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "version": "1.2.130",
+      "versionDate": "2026-09-20T00:54:26+08:00",
+      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "size": 898812284
+    },
+    {
+      "name": "行尸走肉",
+      "bundleIdentifier": "com.ioskuka.catalog.52b363736b5db2fe7de4",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260828/6d8d9b15299933da99ed6fc15b1b60af.png",
+      "localizedDescription": "✅ Không giới hạn tiền vàng.\n✅ Không giới hạn kim cương.\n✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Thể lực không giới hạn.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tích hợp plugin bổ sung.",
+      "version": "2.1.1",
+      "versionDate": "2026-09-18T21:18:06+08:00",
+      "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Không giới hạn kim cương.\n✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Thể lực không giới hạn.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tích hợp plugin bổ sung.",
+      "size": 689428234
+    },
+    {
+      "name": "地球末日:生存",
+      "bundleIdentifier": "com.ioskuka.catalog.239cdd5829182614aa0b",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260806/65b621a1923bac0c4e87cc6362f586d2.png",
+      "localizedDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
+      "version": "1.52.0",
+      "versionDate": "2026-09-18T21:17:27+08:00",
+      "versionDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
+      "size": 1085297132
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.ioskuka.catalog.03b554ea336caa828b85",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260728/66398f2a016e425b3830dcae09484e04.png",
+      "localizedDescription": "✅ Bản TikTok được tích hợp plugin để tải video, giảm quảng cáo và bổ sung các tùy chọn phát.\n✅ Có thể hỗ trợ chuyển khu vực và một số tùy chỉnh giao diện/tính năng theo plugin.\n⚠️ Khả năng đăng nhập và tính năng có thể phụ thuộc phiên bản, khu vực và plugin.",
+      "version": "46.9.0",
+      "versionDate": "2026-09-18T18:12:46+08:00",
+      "versionDescription": "✅ Bản TikTok được tích hợp plugin để tải video, giảm quảng cáo và bổ sung các tùy chọn phát.\n✅ Có thể hỗ trợ chuyển khu vực và một số tùy chỉnh giao diện/tính năng theo plugin.\n⚠️ Khả năng đăng nhập và tính năng có thể phụ thuộc phiên bản, khu vực và plugin.",
+      "size": 531009372
+    },
+    {
+      "name": "rednote",
+      "bundleIdentifier": "com.ioskuka.catalog.4ee54c7f6c76296d635a",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251104/54d21f39bd266a10a8ea002ed32dfe17.png",
+      "localizedDescription": "✅ Tích hợp plugin hỗ trợ tải ảnh/video không watermark và loại bỏ phần lớn quảng cáo.\n✅ Hỗ trợ sao chép tiêu đề/nội dung bằng thao tác nhấn giữ ở một số khu vực.\n✅ Menu plugin nằm trong phần cài đặt của ứng dụng; cần bật plugin để sử dụng tính năng.",
+      "version": "9.47",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Tích hợp plugin hỗ trợ tải ảnh/video không watermark và loại bỏ phần lớn quảng cáo.\n✅ Hỗ trợ sao chép tiêu đề/nội dung bằng thao tác nhấn giữ ở một số khu vực.\n✅ Menu plugin nằm trong phần cài đặt của ứng dụng; cần bật plugin để sử dụng tính năng.",
+      "size": 209022562
+    },
+    {
+      "name": "Duolingo: Language & Chess",
+      "bundleIdentifier": "com.ioskuka.catalog.ed6b3855dfdf85f29434",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260901/9425bfdfbd25a8689ab3dc384d129a92.png",
+      "localizedDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
+      "version": "7.140.0",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
+      "size": 222288070
+    },
+    {
+      "name": "小红书液态玻璃版",
+      "bundleIdentifier": "com.ioskuka.catalog.550826e26dae3da50200",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251104/54d21f39bd266a10a8ea002ed32dfe17.png",
+      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến loại bỏ/lưu nội dung không watermark.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có tích hợp plugin bổ sung.",
+      "version": "9.47",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến loại bỏ/lưu nội dung không watermark.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có tích hợp plugin bổ sung.",
+      "size": 209503236
+    },
+    {
+      "name": "我比武特牛",
+      "bundleIdentifier": "com.ioskuka.catalog.30bb32b0bb6499f4e77f",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260907/idlegongfu.jpg",
+      "localizedDescription": "✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.",
+      "version": "0.64.0",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.",
+      "size": 365652206
+    },
+    {
+      "name": "SenPlayer",
+      "bundleIdentifier": "com.ioskuka.catalog.900e0b53ca433f82e6c5",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260821/2579834d9b18702e700447681eaf2b57.png",
+      "localizedDescription": "✅ Trình phát đa phương tiện.\n✅ Có tính năng phát nội dung đa phương tiện.",
+      "version": "6.2.1",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Trình phát đa phương tiện.\n✅ Có tính năng phát nội dung đa phương tiện.",
+      "size": 84257622
+    },
+    {
+      "name": "拦截猫",
+      "bundleIdentifier": "com.ioskuka.catalog.c616a8a2b8ed8a85b266",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260816/079fddc5312f5f6fe3e852b993f024b7.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "1.6.14",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 74700011
+    },
+    {
+      "name": "极简阅读",
+      "bundleIdentifier": "com.ioskuka.catalog.a514148dfa7e47595809",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260702/3c2a1d64c3644b15aeb39ca0d6e4da3d.png",
+      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.\n✅ Có tích hợp plugin bổ sung.",
+      "version": "2.2.0",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.\n✅ Có tích hợp plugin bổ sung.",
+      "size": 36012506
+    },
+    {
+      "name": "SenPlayer",
+      "bundleIdentifier": "com.ioskuka.catalog.b725ddab60a2b3a89c7f",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260504/2579834d9b18702e700447681eaf2b57.png",
+      "localizedDescription": "✅ Trình phát đa phương tiện.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.",
+      "version": "6.1.8",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Trình phát đa phương tiện.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.",
+      "size": 61620734
+    },
+    {
+      "name": "两步路户外助手",
+      "bundleIdentifier": "com.ioskuka.catalog.1ab5516d337504cbb9ef",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260429/a9f199567566eb8cfafcc3f42084ddc6.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
+      "version": "9.2.4",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
+      "size": 132141164
+    },
+    {
+      "name": "Picsart AI Photo Editor, Video",
+      "bundleIdentifier": "com.ioskuka.catalog.3994b3397912c995d436",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251205/f1cc95392bee81bc9e4a9478be8294ce.png",
+      "localizedDescription": "✅ Bản Picsart chỉnh sửa dành cho chỉnh sửa/làm đẹp ảnh.\n✅ Đăng nhập để kích hoạt các tính năng thành viên theo mô tả của nguồn.\n✅ Mở khóa các tính năng nâng cao của ứng dụng.",
+      "version": "30.7.2",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Bản Picsart chỉnh sửa dành cho chỉnh sửa/làm đẹp ảnh.\n✅ Đăng nhập để kích hoạt các tính năng thành viên theo mô tả của nguồn.\n✅ Mở khóa các tính năng nâng cao của ứng dụng.",
+      "size": 110986422
+    },
+    {
+      "name": "Colorful Widget",
+      "bundleIdentifier": "com.ioskuka.catalog.1668dae33e797ee0f8f5",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251122/8e66f8ef9d8ee668ee0b27dc4950ec4c.png",
+      "localizedDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "18.6.0",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 367840794
+    },
+    {
+      "name": "我的桌面",
+      "bundleIdentifier": "com.ioskuka.catalog.e4847e9d5cebdb07e3a9",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251030/627c133c718e291cee348fbf0542a54b.png",
+      "localizedDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "5.1.05",
+      "versionDate": "2026-09-18T01:34:19+08:00",
+      "versionDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 327231443
+    },
+    {
+      "name": "潜水员戴夫",
+      "bundleIdentifier": "com.ioskuka.catalog.85884037e8bd64817465",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260206/3b6e19b5820345c0829ea77eb3a6ff78.png",
+      "localizedDescription": "✅ Không giới hạn tiền vàng.\n✅ Đạn/đạn dược không giới hạn.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng tốc.\n✅ Có tích hợp plugin bổ sung.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n✅ Có ghi chú liên quan đến TrollStore.",
+      "version": "1.0.41",
+      "versionDate": "2026-09-15T10:36:40+08:00",
+      "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Đạn/đạn dược không giới hạn.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng tốc.\n✅ Có tích hợp plugin bổ sung.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n✅ Có ghi chú liên quan đến TrollStore.",
+      "size": 3127577149
+    },
+    {
+      "name": "元书输入法",
+      "bundleIdentifier": "com.ioskuka.catalog.7b6e591c265ffabe8db5",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260915/yuanshu.jpg",
+      "localizedDescription": "✅ Bàn phím/phương thức nhập liệu.",
+      "version": "1.8.1",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Bàn phím/phương thức nhập liệu.",
+      "size": 45976882
+    },
+    {
+      "name": "训记",
+      "bundleIdentifier": "com.ioskuka.catalog.3ec631d45c32566ca3b2",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260804/af0e98e5f433464b1334251c3767b4ce.png",
+      "localizedDescription": "✅ Ứng dụng hỗ trợ tập luyện/thể thao.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "7.00.385",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Ứng dụng hỗ trợ tập luyện/thể thao.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 252273875
+    },
+    {
+      "name": "红果漫剧",
+      "bundleIdentifier": "com.ioskuka.catalog.08f422210ca14f77ec77",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260704/11ecfc257750743aa032cbddbede2389.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.",
+      "version": "7.3.7",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.",
+      "size": 323602416
+    },
+    {
+      "name": "植物大战僵尸杂交版",
+      "bundleIdentifier": "com.ioskuka.catalog.264c6f2c5b5183d37c31",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260329/6bed92263c0edfb638a79bfd843a2dfe.jpg",
+      "localizedDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
+      "version": "0.27.0.0",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
+      "size": 360070658
+    },
+    {
+      "name": "彩云天气Pro",
+      "bundleIdentifier": "com.ioskuka.catalog.d0ed90109c479ae52c14",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251017/82d3a4fe40f95001d83416024c9da6dd.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "7.63.1",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 74063274
+    },
+    {
+      "name": "彩云天气",
+      "bundleIdentifier": "com.ioskuka.catalog.1a6d79e6105de4dc13f5",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251017/1ad18d55403a7848d9ab652f6c91fe4d.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "7.63.1",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 119336846
+    },
+    {
+      "name": "番茄小说",
+      "bundleIdentifier": "com.ioskuka.catalog.4e39bd5885a7e958ac84",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260324/442afe34ae3d7d054b4707002a15da2e.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
+      "version": "7.3.7",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
+      "size": 300543275
+    },
+    {
+      "name": "红果短剧",
+      "bundleIdentifier": "com.ioskuka.catalog.3ad36dc4ed57998ce972",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260324/748009455e3f90bd4134209faed9ad2b.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "7.3.7",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 297125859
+    },
+    {
+      "name": "番茄畅听",
+      "bundleIdentifier": "com.ioskuka.catalog.83ff840aa752277a34b5",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20250803/0eeaae06560de4d6bb67f3179f3875e6.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
+      "version": "6.6.8",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
+      "size": 257872523
+    },
+    {
+      "name": "疯狂背单词",
+      "bundleIdentifier": "com.ioskuka.catalog.15a3d5b95e01dcae4a56",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20240911/ab4b483ff67ffa541484d009b48cf16b.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "2.25",
+      "versionDate": "2026-09-15T09:52:12+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 51751498
+    },
+    {
       "name": "WeChat",
       "bundleIdentifier": "com.ioskuka.catalog.7cf3bf6249f831edeb98",
       "developerName": "Kuka Source",
@@ -29,160 +389,6 @@
       "size": 490170127
     },
     {
-      "name": "QQ",
-      "bundleIdentifier": "com.ioskuka.catalog.75e2d06189e46c75f40c",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260325/b6ee8bfb9f61c4c5078b33f3fd5a621c.png",
-      "localizedDescription": "✅ Tích hợp plugin cho QQ; mặc định plugin có thể tắt và người dùng tự bật theo nhu cầu.\n✅ Hỗ trợ chống thu hồi tin nhắn, lưu ảnh Flash và một số tính năng bổ sung.\n✅ Phần cài đặt plugin nằm trong giao diện Cài đặt của QQ.\n⚠️ Nguồn Kuka cảnh báo QQ có cơ chế phát hiện; có rủi ro khóa tài khoản.",
-      "version": "9.3.50",
-      "versionDate": "2026-08-24T01:01:55+08:00",
-      "versionDescription": "✅ Tích hợp plugin cho QQ; mặc định plugin có thể tắt và người dùng tự bật theo nhu cầu.\n✅ Hỗ trợ chống thu hồi tin nhắn, lưu ảnh Flash và một số tính năng bổ sung.\n✅ Phần cài đặt plugin nằm trong giao diện Cài đặt của QQ.\n⚠️ Nguồn Kuka cảnh báo QQ có cơ chế phát hiện; có rủi ro khóa tài khoản.",
-      "size": 372571595
-    },
-    {
-      "name": "游戏存档工具",
-      "bundleIdentifier": "com.ioskuka.catalog.ae615f70c5ce33fa8dcf",
-      "developerName": "Kuka Source",
-      "subtitle": "Có liên kết tải từ nguồn Kuka",
-      "iconURL": "https://app.ioskuka.com/uploads/20260715/6e1f7c30829b0b90877afe217f67db02.jpg",
-      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.",
-      "version": "1.0.2",
-      "versionDate": "2026-08-04T00:37:48+08:00",
-      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.",
-      "size": 1048576,
-      "downloadURL": "https://pan.ioskuka.com/d/iosziyuan/iosziyuan/%E6%B8%B8%E6%88%8F%E5%AD%98%E6%A1%A3%E5%B7%A5%E5%85%B7_2.0.dylib",
-      "versions": [
-        {
-          "version": "1.0.2",
-          "date": "2026-08-04T00:37:48+08:00",
-          "size": 1048576,
-          "downloadURL": "https://pan.ioskuka.com/d/iosziyuan/iosziyuan/%E6%B8%B8%E6%88%8F%E5%AD%98%E6%A1%A3%E5%B7%A5%E5%85%B7_2.0.dylib",
-          "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore."
-        }
-      ]
-    },
-    {
-      "name": "汽水音乐",
-      "bundleIdentifier": "com.ioskuka.catalog.6f9f5387eec8673b5d40",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260531/eb5e63098ae7895871609f2a67de0f70.png",
-      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.\n✅ Hỗ trợ nhân bản/chạy nhiều tài khoản hoặc nhiều bản ứng dụng.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "20.5.0",
-      "versionDate": "2026-08-13T00:24:19+08:00",
-      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.\n✅ Hỗ trợ nhân bản/chạy nhiều tài khoản hoặc nhiều bản ứng dụng.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 206349271
-    },
-    {
-      "name": "酷我音乐",
-      "bundleIdentifier": "com.ioskuka.catalog.035ab56d2330503b7b2a",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260126/512c46920252e6ddb4fe48270dea2879.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "1.0.5",
-      "versionDate": "2026-07-22T19:19:25+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 58699284
-    },
-    {
-      "name": "抖音",
-      "bundleIdentifier": "com.ioskuka.catalog.8c92a3afda251ac4c4f1",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251214/2c2fb1948e77409f764e55f61a47a646.png",
-      "localizedDescription": "✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tích hợp plugin bổ sung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "40.3.0",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tích hợp plugin bổ sung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 715027653
-    },
-    {
-      "name": "抖音多开",
-      "bundleIdentifier": "com.ioskuka.catalog.795748555bb0b74cbd18",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260320/23633129ec460afd8d2f1f1804940d1f.jpg",
-      "localizedDescription": "✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tích hợp plugin bổ sung.\n✅ Hỗ trợ nhân bản/chạy nhiều tài khoản hoặc nhiều bản ứng dụng.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "40.3.0",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tích hợp plugin bổ sung.\n✅ Hỗ trợ nhân bản/chạy nhiều tài khoản hoặc nhiều bản ứng dụng.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 717716997
-    },
-    {
-      "name": "rednote",
-      "bundleIdentifier": "com.ioskuka.catalog.4ee54c7f6c76296d635a",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251104/54d21f39bd266a10a8ea002ed32dfe17.png",
-      "localizedDescription": "✅ Tích hợp plugin hỗ trợ tải ảnh/video không watermark và loại bỏ phần lớn quảng cáo.\n✅ Hỗ trợ sao chép tiêu đề/nội dung bằng thao tác nhấn giữ ở một số khu vực.\n✅ Menu plugin nằm trong phần cài đặt của ứng dụng; cần bật plugin để sử dụng tính năng.",
-      "version": "9.47",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Tích hợp plugin hỗ trợ tải ảnh/video không watermark và loại bỏ phần lớn quảng cáo.\n✅ Hỗ trợ sao chép tiêu đề/nội dung bằng thao tác nhấn giữ ở một số khu vực.\n✅ Menu plugin nằm trong phần cài đặt của ứng dụng; cần bật plugin để sử dụng tính năng.",
-      "size": 209022562
-    },
-    {
-      "name": "今日水印相机",
-      "bundleIdentifier": "com.ioskuka.catalog.5d3f5b7c0cd042636a30",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260708/cb2801597aa3fdc2cab4fd43ea2607fb.png",
-      "localizedDescription": "✅ Có tính năng vị trí ảo/thay đổi vị trí GPS.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n⚠️ Ứng dụng có thể đã bị gỡ hoặc có nguy cơ bị gỡ khỏi App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: Embedded.",
-      "version": "3.0.450",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Có tính năng vị trí ảo/thay đổi vị trí GPS.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n⚠️ Ứng dụng có thể đã bị gỡ hoặc có nguy cơ bị gỡ khỏi App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: Embedded.",
-      "size": 178597947
-    },
-    {
-      "name": "Duolingo: Language & Chess",
-      "bundleIdentifier": "com.ioskuka.catalog.727b1b086418b6531622",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260901/9425bfdfbd25a8689ab3dc384d129a92.png",
-      "localizedDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
-      "version": "7.101.1",
-      "versionDate": "2026-09-02T01:44:48+08:00",
-      "versionDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
-      "size": 188439117
-    },
-    {
-      "name": "Duolingo: Language & Chess",
-      "bundleIdentifier": "com.ioskuka.catalog.ed6b3855dfdf85f29434",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260901/9425bfdfbd25a8689ab3dc384d129a92.png",
-      "localizedDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
-      "version": "7.140.0",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
-      "size": 222288070
-    },
-    {
-      "name": "YouTube",
-      "bundleIdentifier": "com.ioskuka.catalog.c893fa5aa076f7f3b18d",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260611/2c353340156e5e7443f70dbf3483662d.png",
-      "localizedDescription": "✅ Bản YouTube được tích hợp plugin YTKACE và các plugin bổ sung.\n✅ Hỗ trợ tải video, giảm quảng cáo, Picture‑in‑Picture và một số tính năng nâng cao.\n✅ Yêu cầu iOS 16 trở lên theo mô tả nguồn.",
-      "version": "21.34.3",
-      "versionDate": "2026-08-28T12:31:52+08:00",
-      "versionDescription": "✅ Bản YouTube được tích hợp plugin YTKACE và các plugin bổ sung.\n✅ Hỗ trợ tải video, giảm quảng cáo, Picture‑in‑Picture và một số tính năng nâng cao.\n✅ Yêu cầu iOS 16 trở lên theo mô tả nguồn.",
-      "size": 149084829
-    },
-    {
-      "name": "Duolingo: Language & Chess",
-      "bundleIdentifier": "com.ioskuka.catalog.365d006833c8c9b3b697",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260901/9425bfdfbd25a8689ab3dc384d129a92.png",
-      "localizedDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
-      "version": "7.94.0",
-      "versionDate": "2026-09-02T01:44:48+08:00",
-      "versionDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
-      "size": 202966090
-    },
-    {
       "name": "网易云音乐",
       "bundleIdentifier": "com.ioskuka.catalog.d2c71fcc677722d8c1f7",
       "developerName": "Kuka Source",
@@ -193,102 +399,6 @@
       "versionDate": "2026-09-13T21:20:12+08:00",
       "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.",
       "size": 200539593
-    },
-    {
-      "name": "Fast VPN",
-      "bundleIdentifier": "com.ioskuka.catalog.5911d0088081f6eeb406",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260509/dd2f52279a8667e0c0873d05a8dd9b0d.jpg",
-      "localizedDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
-      "version": "2.4",
-      "versionDate": "2026-07-28T16:46:24+08:00",
-      "versionDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
-      "size": 30408704
-    },
-    {
-      "name": "GOFast VPN",
-      "bundleIdentifier": "com.ioskuka.catalog.ccbcb207c26712d457c0",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260804/2074949f8ba82c2648161ca9765f36fd.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "1.4.0",
-      "versionDate": "2026-08-28T14:28:30+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 81872814
-    },
-    {
-      "name": "酷狗音乐",
-      "bundleIdentifier": "com.ioskuka.catalog.ad85487cd41a6509285a",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260804/86a11c54a5a26c3f37e14b0e4d80d797.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng phát nội dung đa phương tiện.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.",
-      "version": "20.7.4",
-      "versionDate": "2026-08-04T00:40:51+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng phát nội dung đa phương tiện.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.",
-      "size": 207167160
-    },
-    {
-      "name": "X",
-      "bundleIdentifier": "com.ioskuka.catalog.5451521d23e05cbfd025",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260108/1c5c3c3eebaefb3590547f3719989123.png",
-      "localizedDescription": "✅ Bản X/Twitter được tích hợp plugin BHTwitter.\n✅ Có các tính năng bổ sung như vị trí ảo, dịch và tùy chỉnh theo plugin.\n✅ Yêu cầu iOS 15 trở lên theo mô tả nguồn.",
-      "version": "12.24",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Bản X/Twitter được tích hợp plugin BHTwitter.\n✅ Có các tính năng bổ sung như vị trí ảo, dịch và tùy chỉnh theo plugin.\n✅ Yêu cầu iOS 15 trở lên theo mô tả nguồn.",
-      "size": 250253961
-    },
-    {
-      "name": "大师兄影视",
-      "bundleIdentifier": "com.ioskuka.catalog.b611d4915ee560a03d03",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260316/90d81cdeb788bce313d0fe4e281d1c18.jpg",
-      "localizedDescription": "✅ Có tính năng mạng/VPN/proxy hoặc tùy chỉnh lưu lượng.",
-      "version": "1.6.5",
-      "versionDate": "2026-07-28T16:46:55+08:00",
-      "versionDescription": "✅ Có tính năng mạng/VPN/proxy hoặc tùy chỉnh lưu lượng.",
-      "size": 52586086
-    },
-    {
-      "name": "开心消消乐",
-      "bundleIdentifier": "com.ioskuka.catalog.232a66533055ae463066",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260725/8239e2180da3dceeba5af27a6be44cb7.png",
-      "localizedDescription": "✅ Thể lực không giới hạn.",
-      "version": "1.161.5",
-      "versionDate": "2026-09-11T09:50:41+08:00",
-      "versionDescription": "✅ Thể lực không giới hạn.",
-      "size": 317571727
-    },
-    {
-      "name": "元气骑士",
-      "bundleIdentifier": "com.ioskuka.catalog.e093260e5076abbd3e91",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260816/c38ed2fb336923b3e3ca59cf81f7e057.png",
-      "localizedDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: xA0.",
-      "version": "8.5.1",
-      "versionDate": "2026-09-20T01:22:05+08:00",
-      "versionDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: xA0.",
-      "size": 774432858
-    },
-    {
-      "name": "元书输入法",
-      "bundleIdentifier": "com.ioskuka.catalog.7b6e591c265ffabe8db5",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260915/yuanshu.jpg",
-      "localizedDescription": "✅ Bàn phím/phương thức nhập liệu.",
-      "version": "1.8.1",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Bàn phím/phương thức nhập liệu.",
-      "size": 45976882
     },
     {
       "name": "HiWidget",
@@ -303,30 +413,6 @@
       "size": 444843674
     },
     {
-      "name": "潜水员戴夫",
-      "bundleIdentifier": "com.ioskuka.catalog.85884037e8bd64817465",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260206/3b6e19b5820345c0829ea77eb3a6ff78.png",
-      "localizedDescription": "✅ Không giới hạn tiền vàng.\n✅ Đạn/đạn dược không giới hạn.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng tốc.\n✅ Có tích hợp plugin bổ sung.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n✅ Có ghi chú liên quan đến TrollStore.",
-      "version": "1.0.41",
-      "versionDate": "2026-09-15T10:36:40+08:00",
-      "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Đạn/đạn dược không giới hạn.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng tốc.\n✅ Có tích hợp plugin bổ sung.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n✅ Có ghi chú liên quan đến TrollStore.",
-      "size": 3127577149
-    },
-    {
-      "name": "红警2资源包",
-      "bundleIdentifier": "com.ioskuka.catalog.f6726286c97a06124121",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260911/1484b92a9f9adb804589cac2b5eb406e.jpg",
-      "localizedDescription": "ℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: zip.",
-      "version": "1",
-      "versionDate": "2026-09-11T09:49:04+08:00",
-      "versionDescription": "ℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: zip.",
-      "size": 1572864000
-    },
-    {
       "name": "百度网盘",
       "bundleIdentifier": "com.ioskuka.catalog.c407ee99ba6df967cf3d",
       "developerName": "Kuka Source",
@@ -339,16 +425,40 @@
       "size": 443923254
     },
     {
-      "name": "快来当领主国服原版",
-      "bundleIdentifier": "com.ioskuka.catalog.28bbb071f57568eab344",
+      "name": "文墨天机Pro",
+      "bundleIdentifier": "com.ioskuka.catalog.d2540a33af0c2f4582f3",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260518/4a558f97ff4ed35e0c3930929735e379.png",
-      "localizedDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
-      "version": "1.4.9",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
-      "size": 1692450996
+      "iconURL": "https://app.ioskuka.com/uploads/20250705/4e3c29af0756dbe450a180fa3c8aebce.png",
+      "localizedDescription": "✅ Có chỉnh sửa liên quan đến mua hàng trong ứng dụng/tài nguyên trả phí.",
+      "version": "2.5.23",
+      "versionDate": "2026-09-13T21:20:12+08:00",
+      "versionDescription": "✅ Có chỉnh sửa liên quan đến mua hàng trong ứng dụng/tài nguyên trả phí.",
+      "size": 37602487
+    },
+    {
+      "name": "开心消消乐",
+      "bundleIdentifier": "com.ioskuka.catalog.232a66533055ae463066",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260725/8239e2180da3dceeba5af27a6be44cb7.png",
+      "localizedDescription": "✅ Thể lực không giới hạn.",
+      "version": "1.161.5",
+      "versionDate": "2026-09-11T09:50:41+08:00",
+      "versionDescription": "✅ Thể lực không giới hạn.",
+      "size": 317571727
+    },
+    {
+      "name": "红警2资源包",
+      "bundleIdentifier": "com.ioskuka.catalog.f6726286c97a06124121",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260911/1484b92a9f9adb804589cac2b5eb406e.jpg",
+      "localizedDescription": "ℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: zip.",
+      "version": "1",
+      "versionDate": "2026-09-11T09:49:04+08:00",
+      "versionDescription": "ℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: zip.",
+      "size": 1572864000
     },
     {
       "name": "红警2",
@@ -375,6 +485,66 @@
       "size": 1677721600
     },
     {
+      "name": "抖音",
+      "bundleIdentifier": "com.ioskuka.catalog.8c92a3afda251ac4c4f1",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251214/2c2fb1948e77409f764e55f61a47a646.png",
+      "localizedDescription": "✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tích hợp plugin bổ sung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "40.3.0",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tích hợp plugin bổ sung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 715027653
+    },
+    {
+      "name": "抖音多开",
+      "bundleIdentifier": "com.ioskuka.catalog.795748555bb0b74cbd18",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260320/23633129ec460afd8d2f1f1804940d1f.jpg",
+      "localizedDescription": "✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tích hợp plugin bổ sung.\n✅ Hỗ trợ nhân bản/chạy nhiều tài khoản hoặc nhiều bản ứng dụng.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "40.3.0",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tích hợp plugin bổ sung.\n✅ Hỗ trợ nhân bản/chạy nhiều tài khoản hoặc nhiều bản ứng dụng.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 717716997
+    },
+    {
+      "name": "今日水印相机",
+      "bundleIdentifier": "com.ioskuka.catalog.5d3f5b7c0cd042636a30",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260708/cb2801597aa3fdc2cab4fd43ea2607fb.png",
+      "localizedDescription": "✅ Có tính năng vị trí ảo/thay đổi vị trí GPS.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n⚠️ Ứng dụng có thể đã bị gỡ hoặc có nguy cơ bị gỡ khỏi App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: Embedded.",
+      "version": "3.0.450",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Có tính năng vị trí ảo/thay đổi vị trí GPS.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n⚠️ Ứng dụng có thể đã bị gỡ hoặc có nguy cơ bị gỡ khỏi App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: Embedded.",
+      "size": 178597947
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.ioskuka.catalog.5451521d23e05cbfd025",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260108/1c5c3c3eebaefb3590547f3719989123.png",
+      "localizedDescription": "✅ Bản X/Twitter được tích hợp plugin BHTwitter.\n✅ Có các tính năng bổ sung như vị trí ảo, dịch và tùy chỉnh theo plugin.\n✅ Yêu cầu iOS 15 trở lên theo mô tả nguồn.",
+      "version": "12.24",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Bản X/Twitter được tích hợp plugin BHTwitter.\n✅ Có các tính năng bổ sung như vị trí ảo, dịch và tùy chỉnh theo plugin.\n✅ Yêu cầu iOS 15 trở lên theo mô tả nguồn.",
+      "size": 250253961
+    },
+    {
+      "name": "快来当领主国服原版",
+      "bundleIdentifier": "com.ioskuka.catalog.28bbb071f57568eab344",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260518/4a558f97ff4ed35e0c3930929735e379.png",
+      "localizedDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
+      "version": "1.4.9",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
+      "size": 1692450996
+    },
+    {
       "name": "饥饿鲨：世界",
       "bundleIdentifier": "com.ioskuka.catalog.8e93f0dec4ad6143746c",
       "developerName": "Kuka Source",
@@ -387,16 +557,196 @@
       "size": 196223401
     },
     {
-      "name": "小红书液态玻璃版",
-      "bundleIdentifier": "com.ioskuka.catalog.550826e26dae3da50200",
+      "name": "房产达人",
+      "bundleIdentifier": "com.ioskuka.catalog.a85a78ae8729cb259868",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251104/54d21f39bd266a10a8ea002ed32dfe17.png",
-      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến loại bỏ/lưu nội dung không watermark.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có tích hợp plugin bổ sung.",
-      "version": "9.47",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến loại bỏ/lưu nội dung không watermark.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có tích hợp plugin bổ sung.",
-      "size": 209503236
+      "iconURL": "https://app.ioskuka.com/uploads/20260828/5431d8b153d32066743db3f1c16e1b4c.png",
+      "localizedDescription": "✅ Không giới hạn tiền vàng.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: House, Flipper.",
+      "version": "1.691",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Không giới hạn tiền vàng.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: House, Flipper.",
+      "size": 496059057
+    },
+    {
+      "name": "饥荒联机版",
+      "bundleIdentifier": "com.ioskuka.catalog.ac62575fbb76bb6dcfad",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260806/85198b37f5fec4ef5594ce3ac2b5f600.png",
+      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "version": "1.4.0",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "size": 1633113414
+    },
+    {
+      "name": "神来麻将",
+      "bundleIdentifier": "com.ioskuka.catalog.64dec5020043bbc851d9",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260806/e21d18631752acd3a8b8b35cb7bc7898.png",
+      "localizedDescription": "✅ Có tích hợp plugin bổ sung.",
+      "version": "2.5",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Có tích hợp plugin bổ sung.",
+      "size": 155614975
+    },
+    {
+      "name": "向僵尸开炮",
+      "bundleIdentifier": "com.ioskuka.catalog.3d48d54b48c422a4775b",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260610/3ca6e2898d8dc6fe1be381d7c0ec6b40.png",
+      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Đạn/đạn dược không giới hạn.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "1.59.1",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Đạn/đạn dược không giới hạn.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 2081209791
+    },
+    {
+      "name": "快来当领主国服修改版",
+      "bundleIdentifier": "com.ioskuka.catalog.6f6071888a3189c0e9ca",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260518/4a558f97ff4ed35e0c3930929735e379.png",
+      "localizedDescription": "✅ Không giới hạn tiền vàng.\n✅ Có tính năng tăng tốc.",
+      "version": "1.4.9",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Có tính năng tăng tốc.",
+      "size": 1692624373
+    },
+    {
+      "name": "我的世界",
+      "bundleIdentifier": "com.ioskuka.catalog.bbd4a773417d64eb468b",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260214/c56e6c2fa7a2d2351dc2a2b8c1559251.png",
+      "localizedDescription": "✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
+      "version": "1.26.45",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
+      "size": 756433943
+    },
+    {
+      "name": "千阅",
+      "bundleIdentifier": "com.ioskuka.catalog.d93cb7adc44524227a9b",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260208/cf3e66cf51ce81ea14539896e7352712.png",
+      "localizedDescription": "✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.",
+      "version": "2.9.9",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.",
+      "size": 52459974
+    },
+    {
+      "name": "无他相机",
+      "bundleIdentifier": "com.ioskuka.catalog.de4848ae5968dca913e9",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251212/4429101134b21659efd9b11a7f78ce69.png",
+      "localizedDescription": "✅ Ứng dụng máy ảnh/chỉnh sửa hình ảnh.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
+      "version": "7.5.1",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Ứng dụng máy ảnh/chỉnh sửa hình ảnh.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
+      "size": 153788883
+    },
+    {
+      "name": "美颜相机",
+      "bundleIdentifier": "com.ioskuka.catalog.bed1efa16041ddbbb894",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251205/bc3dcedea2f1e5cd31f2ce2375f58037.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "13.3.20",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 269387068
+    },
+    {
+      "name": "壁纸",
+      "bundleIdentifier": "com.ioskuka.catalog.72afedaf955566db3aae",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20250121/96599211719ba48fb518a3a237085e53.jpg",
+      "localizedDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
+      "version": "6.0.1",
+      "versionDate": "2026-09-07T01:07:51+08:00",
+      "versionDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
+      "size": 15578152
+    },
+    {
+      "name": "英雄没有闪",
+      "bundleIdentifier": "com.ioskuka.catalog.5ef07609e67e14c3e1e1",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260725/7b2e54a52b961d00abc17946a5fb8915.png",
+      "localizedDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tích hợp plugin bổ sung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "1.7.1",
+      "versionDate": "2026-09-06T11:32:21+08:00",
+      "versionDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tích hợp plugin bổ sung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 1782579200
+    },
+    {
+      "name": "SOUL",
+      "bundleIdentifier": "com.ioskuka.catalog.e80bb97b2d9d22fdf231",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260522/fb25404ea41dc13df94aed09aff33e5b.png",
+      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến loại bỏ/lưu nội dung không watermark.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.",
+      "version": "6.34.0",
+      "versionDate": "2026-09-03T01:07:23+08:00",
+      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến loại bỏ/lưu nội dung không watermark.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.",
+      "size": 210712973
+    },
+    {
+      "name": "Turrit",
+      "bundleIdentifier": "com.ioskuka.catalog.21e68eec5fb5430faac8",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260222/f54d73b3eb32a798c228eb726c32f697.png",
+      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng tăng tốc.\n✅ Có tính năng dịch.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có tích hợp plugin bổ sung.",
+      "version": "1.5.3",
+      "versionDate": "2026-09-03T01:07:23+08:00",
+      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng tăng tốc.\n✅ Có tính năng dịch.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có tích hợp plugin bổ sung.",
+      "size": 97059132
+    },
+    {
+      "name": "myTuner Radio",
+      "bundleIdentifier": "com.ioskuka.catalog.5d0d89b74fe0e58abd62",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20231031/93120bc536c750ea7c32c5696ec7a99e.jpeg",
+      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "version": "10.2.2",
+      "versionDate": "2026-09-03T01:07:23+08:00",
+      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "size": 94894108
+    },
+    {
+      "name": "Duolingo: Language & Chess",
+      "bundleIdentifier": "com.ioskuka.catalog.727b1b086418b6531622",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260901/9425bfdfbd25a8689ab3dc384d129a92.png",
+      "localizedDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
+      "version": "7.101.1",
+      "versionDate": "2026-09-02T01:44:48+08:00",
+      "versionDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
+      "size": 188439117
+    },
+    {
+      "name": "Duolingo: Language & Chess",
+      "bundleIdentifier": "com.ioskuka.catalog.365d006833c8c9b3b697",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260901/9425bfdfbd25a8689ab3dc384d129a92.png",
+      "localizedDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
+      "version": "7.94.0",
+      "versionDate": "2026-09-02T01:44:48+08:00",
+      "versionDescription": "✅ Bản Duolingo chỉnh sửa mở khóa tính năng thành viên và không giới hạn tim.\n✅ Có thể sử dụng các tính năng thành viên, bao gồm nội dung thoại/video nếu phiên bản hỗ trợ.\n✅ Dùng để học ngoại ngữ; yêu cầu iOS phụ thuộc từng phiên bản trong source.",
+      "size": 202966090
     },
     {
       "name": "Beans（酷Q网）",
@@ -423,6 +773,30 @@
       "size": 69277062
     },
     {
+      "name": "高德地图",
+      "bundleIdentifier": "com.ioskuka.catalog.b5d4e86dd49ce1dce968",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251205/bbe30425355b60a78d2041eaceaf6d2f.png",
+      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có ghi chú liên quan đến TrollStore.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: carplay.",
+      "version": "16.25.1",
+      "versionDate": "2026-09-02T01:44:48+08:00",
+      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có ghi chú liên quan đến TrollStore.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: carplay.",
+      "size": 174455324
+    },
+    {
+      "name": "欧洲卡车模拟器3",
+      "bundleIdentifier": "com.ioskuka.catalog.c6ba015b3eb38619615a",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20240924/aec0563be7b7f3a0cf6c4d5e8d2a1028.jpg",
+      "localizedDescription": "✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Có tích hợp plugin bổ sung.",
+      "version": "0.7.64",
+      "versionDate": "2026-09-01T12:09:11+08:00",
+      "versionDescription": "✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Có tích hợp plugin bổ sung.",
+      "size": 899845980
+    },
+    {
       "name": "Uni Dream解锁版",
       "bundleIdentifier": "com.ioskuka.catalog.ba03f6638c031a10c734",
       "developerName": "Kuka Source",
@@ -447,16 +821,40 @@
       "size": 12063560
     },
     {
-      "name": "自动枪英雄",
-      "bundleIdentifier": "com.ioskuka.catalog.1cc39a05a10c0ed3c4b8",
+      "name": "AListServer",
+      "bundleIdentifier": "com.ioskuka.catalog.73761be857634d062b5d",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260831/434629b0234f64b7a1df5988c832cdf6.jpg",
-      "localizedDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.",
-      "version": "1.15.3",
-      "versionDate": "2026-08-31T09:52:39+08:00",
-      "versionDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.",
-      "size": 425426845
+      "iconURL": "https://app.ioskuka.com/uploads/20260323/9e46a5766713b7f0d21600b8b1d37792.jpg",
+      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n⚠️ Ứng dụng có thể đã bị gỡ hoặc có nguy cơ bị gỡ khỏi App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: AList.",
+      "version": "2.9",
+      "versionDate": "2026-08-31T10:06:25+08:00",
+      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n⚠️ Ứng dụng có thể đã bị gỡ hoặc có nguy cơ bị gỡ khỏi App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: AList.",
+      "size": 86170375
+    },
+    {
+      "name": "XPTV",
+      "bundleIdentifier": "com.ioskuka.catalog.e861b3309c2df4a57cb7",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251017/a87624cde28e69e9b9247dba24f857fc.png",
+      "localizedDescription": "✅ Có tính năng phát nội dung đa phương tiện.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n✅ Có yêu cầu phiên bản iOS cụ thể; xem số phiên bản trong metadata.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: CMS, PAN, https, ghp.ci, raw.githubusercontent.com.",
+      "version": "4.20",
+      "versionDate": "2026-08-31T10:06:25+08:00",
+      "versionDescription": "✅ Có tính năng phát nội dung đa phương tiện.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n✅ Có yêu cầu phiên bản iOS cụ thể; xem số phiên bản trong metadata.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: CMS, PAN, https, ghp.ci, raw.githubusercontent.com.",
+      "size": 34401884
+    },
+    {
+      "name": "Uni Dream",
+      "bundleIdentifier": "com.ioskuka.catalog.e1d6d6444ed1db4d696f",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20250614/829dbf442de72b1ff667ed6da55b6c44.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "6.8.8",
+      "versionDate": "2026-08-31T10:06:25+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 169984287
     },
     {
       "name": "Jump VPN",
@@ -471,40 +869,52 @@
       "size": 86151004
     },
     {
-      "name": "模拟城市",
-      "bundleIdentifier": "com.ioskuka.catalog.cf252d181dcbae92689d",
+      "name": "自动枪英雄",
+      "bundleIdentifier": "com.ioskuka.catalog.1cc39a05a10c0ed3c4b8",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260828/b855e8a86a97f30a3220a30066697450.png",
-      "localizedDescription": "✅ Không giới hạn tiền vàng.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: SimCity, BuildIt.",
-      "version": "1.82.3",
-      "versionDate": "2026-09-20T00:54:26+08:00",
-      "versionDescription": "✅ Không giới hạn tiền vàng.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: SimCity, BuildIt.",
-      "size": 279645366
+      "iconURL": "https://app.ioskuka.com/uploads/20260831/434629b0234f64b7a1df5988c832cdf6.jpg",
+      "localizedDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.",
+      "version": "1.15.3",
+      "versionDate": "2026-08-31T09:52:39+08:00",
+      "versionDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.",
+      "size": 425426845
     },
     {
-      "name": "我比武特牛",
-      "bundleIdentifier": "com.ioskuka.catalog.30bb32b0bb6499f4e77f",
+      "name": "魔法工艺",
+      "bundleIdentifier": "com.ioskuka.catalog.2d4001249034997e9b97",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260907/idlegongfu.jpg",
-      "localizedDescription": "✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.",
-      "version": "0.64.0",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.",
-      "size": 365652206
+      "iconURL": "https://app.ioskuka.com/uploads/20260206/1b5271d95541b67d4f0c259b1faae111.png",
+      "localizedDescription": "✅ Không giới hạn tiền vàng.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "version": "1.2.36",
+      "versionDate": "2026-08-31T09:52:39+08:00",
+      "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "size": 731387224
     },
     {
-      "name": "行尸走肉",
-      "bundleIdentifier": "com.ioskuka.catalog.52b363736b5db2fe7de4",
+      "name": "GOFast VPN",
+      "bundleIdentifier": "com.ioskuka.catalog.ccbcb207c26712d457c0",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260828/6d8d9b15299933da99ed6fc15b1b60af.png",
-      "localizedDescription": "✅ Không giới hạn tiền vàng.\n✅ Không giới hạn kim cương.\n✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Thể lực không giới hạn.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tích hợp plugin bổ sung.",
-      "version": "2.1.1",
-      "versionDate": "2026-09-18T21:18:06+08:00",
-      "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Không giới hạn kim cương.\n✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Thể lực không giới hạn.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tích hợp plugin bổ sung.",
-      "size": 689428234
+      "iconURL": "https://app.ioskuka.com/uploads/20260804/2074949f8ba82c2648161ca9765f36fd.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "1.4.0",
+      "versionDate": "2026-08-28T14:28:30+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 81872814
+    },
+    {
+      "name": "字幕翻译",
+      "bundleIdentifier": "com.ioskuka.catalog.1cb451ad6657a147abf6",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260828/840866672b1510475f50eccfd1ccebae.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng dịch.\n✅ Có tính năng liên quan đến video/phim.",
+      "version": "1.6.5",
+      "versionDate": "2026-08-28T14:27:52+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng dịch.\n✅ Có tính năng liên quan đến video/phim.",
+      "size": 107657298
     },
     {
       "name": "快来当领主国际版",
@@ -519,40 +929,16 @@
       "size": 1684747059
     },
     {
-      "name": "房产达人",
-      "bundleIdentifier": "com.ioskuka.catalog.a85a78ae8729cb259868",
+      "name": "YouTube",
+      "bundleIdentifier": "com.ioskuka.catalog.c893fa5aa076f7f3b18d",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260828/5431d8b153d32066743db3f1c16e1b4c.png",
-      "localizedDescription": "✅ Không giới hạn tiền vàng.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: House, Flipper.",
-      "version": "1.691",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Không giới hạn tiền vàng.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: House, Flipper.",
-      "size": 496059057
-    },
-    {
-      "name": "欧洲卡车模拟器3",
-      "bundleIdentifier": "com.ioskuka.catalog.c6ba015b3eb38619615a",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20240924/aec0563be7b7f3a0cf6c4d5e8d2a1028.jpg",
-      "localizedDescription": "✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Có tích hợp plugin bổ sung.",
-      "version": "0.7.64",
-      "versionDate": "2026-09-01T12:09:11+08:00",
-      "versionDescription": "✅ Không giới hạn một số loại tiền/tài nguyên trong game.\n✅ Có tích hợp plugin bổ sung.",
-      "size": 899845980
-    },
-    {
-      "name": "胡闹地牢",
-      "bundleIdentifier": "com.ioskuka.catalog.13cd1bcc8d7e3684abff",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260824/27ff79a5b3ac7331d174f4f92427f225.png",
-      "localizedDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
-      "version": "2.0.3",
-      "versionDate": "2026-08-24T01:16:35+08:00",
-      "versionDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
-      "size": 899038577
+      "iconURL": "https://app.ioskuka.com/uploads/20260611/2c353340156e5e7443f70dbf3483662d.png",
+      "localizedDescription": "✅ Bản YouTube được tích hợp plugin YTKACE và các plugin bổ sung.\n✅ Hỗ trợ tải video, giảm quảng cáo, Picture‑in‑Picture và một số tính năng nâng cao.\n✅ Yêu cầu iOS 16 trở lên theo mô tả nguồn.",
+      "version": "21.34.3",
+      "versionDate": "2026-08-28T12:31:52+08:00",
+      "versionDescription": "✅ Bản YouTube được tích hợp plugin YTKACE và các plugin bổ sung.\n✅ Hỗ trợ tải video, giảm quảng cáo, Picture‑in‑Picture và một số tính năng nâng cao.\n✅ Yêu cầu iOS 16 trở lên theo mô tả nguồn.",
+      "size": 149084829
     },
     {
       "name": "Kumone",
@@ -567,6 +953,114 @@
       "size": 6844573
     },
     {
+      "name": "MuscleWiki",
+      "bundleIdentifier": "com.ioskuka.catalog.b42cf4233afb5691077e",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260816/51ba8ca5d84bd0c25a74920f5ec08d3d.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "3.2.3",
+      "versionDate": "2026-08-28T12:31:52+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 55189321
+    },
+    {
+      "name": "黄豆短剧",
+      "bundleIdentifier": "com.ioskuka.catalog.bbc99a468575db4198c8",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260806/40d1b3beba54d2fdfa4e5cd377825692.jpg",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Không giới hạn tiền vàng.\n✅ Có tính năng mạng/VPN/proxy hoặc tùy chỉnh lưu lượng.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "1.1",
+      "versionDate": "2026-08-28T12:31:52+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Không giới hạn tiền vàng.\n✅ Có tính năng mạng/VPN/proxy hoặc tùy chỉnh lưu lượng.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 3940813
+    },
+    {
+      "name": "Punko.io™",
+      "bundleIdentifier": "com.ioskuka.catalog.27c00c864221f9e6222d",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260428/e8ab174c221e7ac8184c47f096e40956.png",
+      "localizedDescription": "✅ Có chỉnh sửa liên quan đến mua hàng trong ứng dụng/tài nguyên trả phí.",
+      "version": "1.1.12",
+      "versionDate": "2026-08-28T12:31:52+08:00",
+      "versionDescription": "✅ Có chỉnh sửa liên quan đến mua hàng trong ứng dụng/tài nguyên trả phí.",
+      "size": 230092135
+    },
+    {
+      "name": "胡闹地牢",
+      "bundleIdentifier": "com.ioskuka.catalog.13cd1bcc8d7e3684abff",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260824/27ff79a5b3ac7331d174f4f92427f225.png",
+      "localizedDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
+      "version": "2.0.3",
+      "versionDate": "2026-08-24T01:16:35+08:00",
+      "versionDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
+      "size": 899038577
+    },
+    {
+      "name": "QQ",
+      "bundleIdentifier": "com.ioskuka.catalog.75e2d06189e46c75f40c",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260325/b6ee8bfb9f61c4c5078b33f3fd5a621c.png",
+      "localizedDescription": "✅ Tích hợp plugin cho QQ; mặc định plugin có thể tắt và người dùng tự bật theo nhu cầu.\n✅ Hỗ trợ chống thu hồi tin nhắn, lưu ảnh Flash và một số tính năng bổ sung.\n✅ Phần cài đặt plugin nằm trong giao diện Cài đặt của QQ.\n⚠️ Nguồn Kuka cảnh báo QQ có cơ chế phát hiện; có rủi ro khóa tài khoản.",
+      "version": "9.3.50",
+      "versionDate": "2026-08-24T01:01:55+08:00",
+      "versionDescription": "✅ Tích hợp plugin cho QQ; mặc định plugin có thể tắt và người dùng tự bật theo nhu cầu.\n✅ Hỗ trợ chống thu hồi tin nhắn, lưu ảnh Flash và một số tính năng bổ sung.\n✅ Phần cài đặt plugin nằm trong giao diện Cài đặt của QQ.\n⚠️ Nguồn Kuka cảnh báo QQ có cơ chế phát hiện; có rủi ro khóa tài khoản.",
+      "size": 372571595
+    },
+    {
+      "name": "Doka相机",
+      "bundleIdentifier": "com.ioskuka.catalog.3c19bd84e9a8033e8dec",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260717/bafbbc4cf83fb1088d69382993bc6b0c.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "2.0.0",
+      "versionDate": "2026-08-24T01:01:55+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 119976159
+    },
+    {
+      "name": "Forward",
+      "bundleIdentifier": "com.ioskuka.catalog.ddf9e01ed215bc433941",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260715/bc786f16ca8b22344fd46fb089efd7f6.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có ghi chú liên quan đến TrollStore.",
+      "version": "1.3.18",
+      "versionDate": "2026-08-24T01:01:55+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có ghi chú liên quan đến TrollStore.",
+      "size": 108526288
+    },
+    {
+      "name": "Spotify: Music and Podcasts",
+      "bundleIdentifier": "com.ioskuka.catalog.ed3c97e7b28b49ed73a1",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260710/574a13eb86754270288a54e35dc265cd.png",
+      "localizedDescription": "✅ Bản Spotify chỉnh sửa mở khóa một số tính năng Premium.\n✅ Hỗ trợ chuyển bài không giới hạn và bỏ chế độ phát ngẫu nhiên bắt buộc.\n✅ Tích hợp plugin Eevee theo mô tả nguồn.\n✅ Yêu cầu tối thiểu iOS 16.1 trong phiên bản này.\n⚠️ Nguồn khuyến cáo giữ khu vực tài khoản phù hợp với máy chủ/VPN đang sử dụng nếu gặp lỗi phát nhạc.",
+      "version": "9.1.76",
+      "versionDate": "2026-08-24T01:01:55+08:00",
+      "versionDescription": "✅ Bản Spotify chỉnh sửa mở khóa một số tính năng Premium.\n✅ Hỗ trợ chuyển bài không giới hạn và bỏ chế độ phát ngẫu nhiên bắt buộc.\n✅ Tích hợp plugin Eevee theo mô tả nguồn.\n✅ Yêu cầu tối thiểu iOS 16.1 trong phiên bản này.\n⚠️ Nguồn khuyến cáo giữ khu vực tài khoản phù hợp với máy chủ/VPN đang sử dụng nếu gặp lỗi phát nhạc.",
+      "size": 131874912
+    },
+    {
+      "name": "美图秀秀",
+      "bundleIdentifier": "com.ioskuka.catalog.d586e3a2e0034b24260a",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251205/ee7a4ecceb878e777545a5721eeb916c.png",
+      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "12.17.0",
+      "versionDate": "2026-08-24T01:01:55+08:00",
+      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 368577594
+    },
+    {
       "name": "日本乡村生活冒险",
       "bundleIdentifier": "com.ioskuka.catalog.98fd7d57404dba861600",
       "developerName": "Kuka Source",
@@ -579,6 +1073,30 @@
       "size": 69877105
     },
     {
+      "name": "镇邪人",
+      "bundleIdentifier": "com.ioskuka.catalog.f6d33a49d73206cb29ad",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260725/270802abfdb032164bb173ad2df48b16.png",
+      "localizedDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
+      "version": "1.0.7",
+      "versionDate": "2026-08-23T02:36:34+08:00",
+      "versionDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
+      "size": 78499585
+    },
+    {
+      "name": "VidHub",
+      "bundleIdentifier": "com.ioskuka.catalog.5febc348e9ff73da14ff",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260130/e3cbb0752f8f7c9c68788744d92625df.png",
+      "localizedDescription": "✅ Trình phát đa phương tiện.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.",
+      "version": "3.0.4",
+      "versionDate": "2026-08-23T02:36:34+08:00",
+      "versionDescription": "✅ Trình phát đa phương tiện.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.",
+      "size": 67783968
+    },
+    {
       "name": "合战忍者村物语",
       "bundleIdentifier": "com.ioskuka.catalog.8eda2ba13955b616037a",
       "developerName": "Kuka Source",
@@ -589,18 +1107,6 @@
       "versionDate": "2026-08-21T02:15:42+08:00",
       "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
       "size": 19807601
-    },
-    {
-      "name": "SenPlayer",
-      "bundleIdentifier": "com.ioskuka.catalog.900e0b53ca433f82e6c5",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260821/2579834d9b18702e700447681eaf2b57.png",
-      "localizedDescription": "✅ Trình phát đa phương tiện.\n✅ Có tính năng phát nội dung đa phương tiện.",
-      "version": "6.2.1",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Trình phát đa phương tiện.\n✅ Có tính năng phát nội dung đa phương tiện.",
-      "size": 84257622
     },
     {
       "name": "冒险者日记国际服",
@@ -675,30 +1181,6 @@
       "size": 3953132
     },
     {
-      "name": "拦截猫",
-      "bundleIdentifier": "com.ioskuka.catalog.c616a8a2b8ed8a85b266",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260816/079fddc5312f5f6fe3e852b993f024b7.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "1.6.14",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 74700011
-    },
-    {
-      "name": "MuscleWiki",
-      "bundleIdentifier": "com.ioskuka.catalog.b42cf4233afb5691077e",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260816/51ba8ca5d84bd0c25a74920f5ec08d3d.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "3.2.3",
-      "versionDate": "2026-08-28T12:31:52+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 55189321
-    },
-    {
       "name": "元书输入法",
       "bundleIdentifier": "com.ioskuka.catalog.d938327efba78318d6d9",
       "developerName": "Kuka Source",
@@ -709,6 +1191,18 @@
       "versionDate": "2026-08-16T13:48:36+08:00",
       "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
       "size": 44040192
+    },
+    {
+      "name": "汽水音乐",
+      "bundleIdentifier": "com.ioskuka.catalog.6f9f5387eec8673b5d40",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260531/eb5e63098ae7895871609f2a67de0f70.png",
+      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.\n✅ Hỗ trợ nhân bản/chạy nhiều tài khoản hoặc nhiều bản ứng dụng.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "20.5.0",
+      "versionDate": "2026-08-13T00:24:19+08:00",
+      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.\n✅ Hỗ trợ nhân bản/chạy nhiều tài khoản hoặc nhiều bản ứng dụng.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 206349271
     },
     {
       "name": "夜店大亨",
@@ -723,18 +1217,6 @@
       "size": 250892780
     },
     {
-      "name": "黄豆短剧",
-      "bundleIdentifier": "com.ioskuka.catalog.bbc99a468575db4198c8",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260806/40d1b3beba54d2fdfa4e5cd377825692.jpg",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Không giới hạn tiền vàng.\n✅ Có tính năng mạng/VPN/proxy hoặc tùy chỉnh lưu lượng.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "1.1",
-      "versionDate": "2026-08-28T12:31:52+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Không giới hạn tiền vàng.\n✅ Có tính năng mạng/VPN/proxy hoặc tùy chỉnh lưu lượng.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 3940813
-    },
-    {
       "name": "思维导图",
       "bundleIdentifier": "com.ioskuka.catalog.8755edba7baaef4fe57d",
       "developerName": "Kuka Source",
@@ -747,28 +1229,16 @@
       "size": 14512292
     },
     {
-      "name": "地球末日:生存",
-      "bundleIdentifier": "com.ioskuka.catalog.239cdd5829182614aa0b",
+      "name": "电工仿真接线助手",
+      "bundleIdentifier": "com.ioskuka.catalog.c444f96f14a62ebb40d4",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260806/65b621a1923bac0c4e87cc6362f586d2.png",
-      "localizedDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
-      "version": "1.52.0",
-      "versionDate": "2026-09-18T21:17:27+08:00",
-      "versionDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
-      "size": 1085297132
-    },
-    {
-      "name": "饥荒联机版",
-      "bundleIdentifier": "com.ioskuka.catalog.ac62575fbb76bb6dcfad",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260806/85198b37f5fec4ef5594ce3ac2b5f600.png",
-      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "version": "1.4.0",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "size": 1633113414
+      "iconURL": "https://app.ioskuka.com/uploads/20260806/fcd980722efa391bfc4f9494460ba180.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "1.0.20",
+      "versionDate": "2026-08-06T01:33:09+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 19241370
     },
     {
       "name": "我在末日当大佬",
@@ -793,18 +1263,6 @@
       "versionDate": "2026-08-06T01:29:19+08:00",
       "versionDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\n✅ Có chế độ bất tử/miễn sát thương.",
       "size": 159362580
-    },
-    {
-      "name": "神来麻将",
-      "bundleIdentifier": "com.ioskuka.catalog.64dec5020043bbc851d9",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260806/e21d18631752acd3a8b8b35cb7bc7898.png",
-      "localizedDescription": "✅ Có tích hợp plugin bổ sung.",
-      "version": "2.5",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Có tích hợp plugin bổ sung.",
-      "size": 155614975
     },
     {
       "name": "光合战队",
@@ -843,16 +1301,38 @@
       "size": 198505923
     },
     {
-      "name": "训记",
-      "bundleIdentifier": "com.ioskuka.catalog.3ec631d45c32566ca3b2",
+      "name": "酷狗音乐",
+      "bundleIdentifier": "com.ioskuka.catalog.ad85487cd41a6509285a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260804/af0e98e5f433464b1334251c3767b4ce.png",
-      "localizedDescription": "✅ Ứng dụng hỗ trợ tập luyện/thể thao.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "7.00.385",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Ứng dụng hỗ trợ tập luyện/thể thao.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 252273875
+      "iconURL": "https://app.ioskuka.com/uploads/20260804/86a11c54a5a26c3f37e14b0e4d80d797.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng phát nội dung đa phương tiện.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.",
+      "version": "20.7.4",
+      "versionDate": "2026-08-04T00:40:51+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng phát nội dung đa phương tiện.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.",
+      "size": 207167160
+    },
+    {
+      "name": "游戏存档工具",
+      "bundleIdentifier": "com.ioskuka.catalog.ae615f70c5ce33fa8dcf",
+      "developerName": "Kuka Source",
+      "subtitle": "Có liên kết tải từ nguồn Kuka",
+      "iconURL": "https://app.ioskuka.com/uploads/20260715/6e1f7c30829b0b90877afe217f67db02.jpg",
+      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.",
+      "version": "1.0.2",
+      "versionDate": "2026-08-04T00:37:48+08:00",
+      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.",
+      "size": 1048576,
+      "downloadURL": "https://pan.ioskuka.com/d/iosziyuan/iosziyuan/%E6%B8%B8%E6%88%8F%E5%AD%98%E6%A1%A3%E5%B7%A5%E5%85%B7_2.0.dylib",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-08-04T00:37:48+08:00",
+          "size": 1048576,
+          "downloadURL": "https://pan.ioskuka.com/d/iosziyuan/iosziyuan/%E6%B8%B8%E6%88%8F%E5%AD%98%E6%A1%A3%E5%B7%A5%E5%85%B7_2.0.dylib",
+          "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore."
+        }
+      ]
     },
     {
       "name": "帮帮识字",
@@ -879,6 +1359,42 @@
       "size": 35878644
     },
     {
+      "name": "王者视距",
+      "bundleIdentifier": "com.ioskuka.catalog.6d6402630b840705fca1",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20250803/addeb1795ad230b832480620fc1c2d0f.jpg",
+      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.\n⚠️ Có cảnh báo rủi ro khóa tài khoản.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "4.4",
+      "versionDate": "2026-08-01T13:46:56+08:00",
+      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.\n⚠️ Có cảnh báo rủi ro khóa tài khoản.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 2289239
+    },
+    {
+      "name": "微博",
+      "bundleIdentifier": "com.ioskuka.catalog.8eaa8b57f4f0ed96c16a",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251130/2ab3949d641427c7c99c2ae75afd1a23.png",
+      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tích hợp plugin bổ sung.",
+      "version": "16.7.4",
+      "versionDate": "2026-07-31T01:30:25+08:00",
+      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tích hợp plugin bổ sung.",
+      "size": 195178033
+    },
+    {
+      "name": "拦截猫",
+      "bundleIdentifier": "com.ioskuka.catalog.c8a53181838dd4beaa93",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20241208/57aaee18144c5587066709f0bdebc568.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "version": "1.6.6",
+      "versionDate": "2026-07-31T01:30:25+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
+      "size": 36053984
+    },
+    {
       "name": "芒果TV",
       "bundleIdentifier": "com.ioskuka.catalog.6c9dbdf7ed7f6a8a4a08",
       "developerName": "Kuka Source",
@@ -891,40 +1407,100 @@
       "size": 315673805
     },
     {
-      "name": "TikTok",
-      "bundleIdentifier": "com.ioskuka.catalog.03b554ea336caa828b85",
+      "name": "ImgPlay",
+      "bundleIdentifier": "com.ioskuka.catalog.bfb34b5782fd1f601c5f",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260728/66398f2a016e425b3830dcae09484e04.png",
-      "localizedDescription": "✅ Bản TikTok được tích hợp plugin để tải video, giảm quảng cáo và bổ sung các tùy chọn phát.\n✅ Có thể hỗ trợ chuyển khu vực và một số tùy chỉnh giao diện/tính năng theo plugin.\n⚠️ Khả năng đăng nhập và tính năng có thể phụ thuộc phiên bản, khu vực và plugin.",
-      "version": "46.9.0",
-      "versionDate": "2026-09-18T18:12:46+08:00",
-      "versionDescription": "✅ Bản TikTok được tích hợp plugin để tải video, giảm quảng cáo và bổ sung các tùy chọn phát.\n✅ Có thể hỗ trợ chuyển khu vực và một số tùy chỉnh giao diện/tính năng theo plugin.\n⚠️ Khả năng đăng nhập và tính năng có thể phụ thuộc phiên bản, khu vực và plugin.",
-      "size": 531009372
+      "iconURL": "https://app.ioskuka.com/uploads/20260430/1ad58a33fe6820b2bbd140c3c4158d68.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.\n✅ Có tích hợp plugin bổ sung.",
+      "version": "6.7.0",
+      "versionDate": "2026-07-30T01:30:56+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.\n✅ Có tích hợp plugin bổ sung.",
+      "size": 190701683
     },
     {
-      "name": "英雄没有闪",
-      "bundleIdentifier": "com.ioskuka.catalog.5ef07609e67e14c3e1e1",
+      "name": "FM收音机",
+      "bundleIdentifier": "com.ioskuka.catalog.f1c67de058e4333e7034",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260725/7b2e54a52b961d00abc17946a5fb8915.png",
-      "localizedDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tích hợp plugin bổ sung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "1.7.1",
-      "versionDate": "2026-09-06T11:32:21+08:00",
-      "versionDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tích hợp plugin bổ sung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 1782579200
+      "iconURL": "https://app.ioskuka.com/uploads/20260330/72b670b667233b4734b1e266014f94de.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
+      "version": "10.2.1",
+      "versionDate": "2026-07-30T01:30:56+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
+      "size": 94940541
     },
     {
-      "name": "镇邪人",
-      "bundleIdentifier": "com.ioskuka.catalog.f6d33a49d73206cb29ad",
+      "name": "Instagram",
+      "bundleIdentifier": "com.ioskuka.catalog.c5cc021ab8437e333dbd",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260725/270802abfdb032164bb173ad2df48b16.png",
-      "localizedDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
-      "version": "1.0.7",
-      "versionDate": "2026-08-23T02:36:34+08:00",
-      "versionDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.",
-      "size": 78499585
+      "iconURL": "https://app.ioskuka.com/uploads/20260114/8ada83da0d62d545b6a5e11231d9989e.png",
+      "localizedDescription": "✅ Bản Instagram có các chỉnh sửa/tính năng bổ sung theo nguồn Kuka.\n✅ Các chức năng thường liên quan đến tải nội dung, quảng cáo hoặc quyền riêng tư tùy phiên bản.",
+      "version": "440.0.0",
+      "versionDate": "2026-07-30T01:30:56+08:00",
+      "versionDescription": "✅ Bản Instagram có các chỉnh sửa/tính năng bổ sung theo nguồn Kuka.\n✅ Các chức năng thường liên quan đến tải nội dung, quảng cáo hoặc quyền riêng tư tùy phiên bản.",
+      "size": 337274703
+    },
+    {
+      "name": "苏丹的游戏",
+      "bundleIdentifier": "com.ioskuka.catalog.2feb9f787d276fde56e9",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260729/84e5b04454f7ae62d5d7184570759018.png",
+      "localizedDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
+      "version": "1.0.2",
+      "versionDate": "2026-07-29T11:51:58+08:00",
+      "versionDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
+      "size": 757124301
+    },
+    {
+      "name": "菜鸟",
+      "bundleIdentifier": "com.ioskuka.catalog.999dd4ec776be31baa0c",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251130/005f67a0f98d106bd0127fd3fd7c46f4.png",
+      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tích hợp plugin bổ sung.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: Vita.",
+      "version": "8.11.727",
+      "versionDate": "2026-07-29T11:46:15+08:00",
+      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tích hợp plugin bổ sung.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: Vita.",
+      "size": 80000092
+    },
+    {
+      "name": "大师兄影视",
+      "bundleIdentifier": "com.ioskuka.catalog.b611d4915ee560a03d03",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260316/90d81cdeb788bce313d0fe4e281d1c18.jpg",
+      "localizedDescription": "✅ Có tính năng mạng/VPN/proxy hoặc tùy chỉnh lưu lượng.",
+      "version": "1.6.5",
+      "versionDate": "2026-07-28T16:46:55+08:00",
+      "versionDescription": "✅ Có tính năng mạng/VPN/proxy hoặc tùy chỉnh lưu lượng.",
+      "size": 52586086
+    },
+    {
+      "name": "Fast VPN",
+      "bundleIdentifier": "com.ioskuka.catalog.5911d0088081f6eeb406",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260509/dd2f52279a8667e0c0873d05a8dd9b0d.jpg",
+      "localizedDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
+      "version": "2.4",
+      "versionDate": "2026-07-28T16:46:24+08:00",
+      "versionDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
+      "size": 30408704
+    },
+    {
+      "name": "失控进化绘制",
+      "bundleIdentifier": "com.ioskuka.catalog.9923db87275251abe633",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260723/f4d6336f1ff7b437a11bd5ae835a8b4b.png",
+      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "2",
+      "versionDate": "2026-07-25T17:21:13+08:00",
+      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 1048576
     },
     {
       "name": "疾风骑士",
@@ -939,6 +1515,18 @@
       "size": 451726541
     },
     {
+      "name": "地球末日:生存",
+      "bundleIdentifier": "com.ioskuka.catalog.103177f6a55e91d43c45",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260327/3f8671fc5ad551f6fcd3ca8600326915.jpg",
+      "localizedDescription": "✅ Có tích hợp plugin bổ sung.\n✅ Có ghi chú hoặc xử lý liên quan đến jailbreak.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
+      "version": "1.50.0",
+      "versionDate": "2026-07-25T17:16:04+08:00",
+      "versionDescription": "✅ Có tích hợp plugin bổ sung.\n✅ Có ghi chú hoặc xử lý liên quan đến jailbreak.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
+      "size": 1029890376
+    },
+    {
       "name": "赵云与阿斗",
       "bundleIdentifier": "com.ioskuka.catalog.98a79d7b8b93cb3fe01c",
       "developerName": "Kuka Source",
@@ -949,18 +1537,6 @@
       "versionDate": "2026-07-23T19:01:13+08:00",
       "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Thể lực không giới hạn.\n✅ Có chế độ bất tử/miễn sát thương.",
       "size": 83886080
-    },
-    {
-      "name": "失控进化绘制",
-      "bundleIdentifier": "com.ioskuka.catalog.9923db87275251abe633",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260723/f4d6336f1ff7b437a11bd5ae835a8b4b.png",
-      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "2",
-      "versionDate": "2026-07-25T17:21:13+08:00",
-      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 1048576
     },
     {
       "name": "WeCom",
@@ -1011,18 +1587,6 @@
       "size": 209715200
     },
     {
-      "name": "Doka相机",
-      "bundleIdentifier": "com.ioskuka.catalog.3c19bd84e9a8033e8dec",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260717/bafbbc4cf83fb1088d69382993bc6b0c.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "2.0.0",
-      "versionDate": "2026-08-24T01:01:55+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 119976159
-    },
-    {
       "name": "MiraPlay",
       "bundleIdentifier": "com.ioskuka.catalog.b791faab251bf2574c63",
       "developerName": "Kuka Source",
@@ -1033,18 +1597,6 @@
       "versionDate": "2026-07-22T19:19:26+08:00",
       "versionDescription": "✅ Trình phát đa phương tiện.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.\n✅ Có tính năng liên quan đến video/phim.\n⚠️ Ứng dụng có thể đã bị gỡ hoặc có nguy cơ bị gỡ khỏi App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: https, kstore.vip, cat, index.js.md5.",
       "size": 69226988
-    },
-    {
-      "name": "Forward",
-      "bundleIdentifier": "com.ioskuka.catalog.ddf9e01ed215bc433941",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260715/bc786f16ca8b22344fd46fb089efd7f6.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có ghi chú liên quan đến TrollStore.",
-      "version": "1.3.18",
-      "versionDate": "2026-08-24T01:01:55+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có ghi chú liên quan đến TrollStore.",
-      "size": 108526288
     },
     {
       "name": "Breeze",
@@ -1105,18 +1657,6 @@
       "versionDate": "2026-07-22T19:19:26+08:00",
       "versionDescription": "✅ Có tích hợp plugin bổ sung.",
       "size": 195035136
-    },
-    {
-      "name": "梦想城镇",
-      "bundleIdentifier": "com.ioskuka.catalog.405fc924047109188cf8",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260715/a6c26bb2e22a49e4480347ddfb411b8c.png",
-      "localizedDescription": "✅ Có tích hợp plugin bổ sung.",
-      "version": "39.0.2",
-      "versionDate": "2026-09-20T01:22:05+08:00",
-      "versionDescription": "✅ Có tích hợp plugin bổ sung.",
-      "size": 186966606
     },
     {
       "name": "全局高刷",
@@ -1191,18 +1731,6 @@
       "size": 278921216
     },
     {
-      "name": "Spotify: Music and Podcasts",
-      "bundleIdentifier": "com.ioskuka.catalog.ed3c97e7b28b49ed73a1",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260710/574a13eb86754270288a54e35dc265cd.png",
-      "localizedDescription": "✅ Bản Spotify chỉnh sửa mở khóa một số tính năng Premium.\n✅ Hỗ trợ chuyển bài không giới hạn và bỏ chế độ phát ngẫu nhiên bắt buộc.\n✅ Tích hợp plugin Eevee theo mô tả nguồn.\n✅ Yêu cầu tối thiểu iOS 16.1 trong phiên bản này.\n⚠️ Nguồn khuyến cáo giữ khu vực tài khoản phù hợp với máy chủ/VPN đang sử dụng nếu gặp lỗi phát nhạc.",
-      "version": "9.1.76",
-      "versionDate": "2026-08-24T01:01:55+08:00",
-      "versionDescription": "✅ Bản Spotify chỉnh sửa mở khóa một số tính năng Premium.\n✅ Hỗ trợ chuyển bài không giới hạn và bỏ chế độ phát ngẫu nhiên bắt buộc.\n✅ Tích hợp plugin Eevee theo mô tả nguồn.\n✅ Yêu cầu tối thiểu iOS 16.1 trong phiên bản này.\n⚠️ Nguồn khuyến cáo giữ khu vực tài khoản phù hợp với máy chủ/VPN đang sử dụng nếu gặp lỗi phát nhạc.",
-      "size": 131874912
-    },
-    {
       "name": "闲置运输公司",
       "bundleIdentifier": "com.ioskuka.catalog.c461c399b01244bf13c7",
       "developerName": "Kuka Source",
@@ -1251,18 +1779,6 @@
       "size": 611225436
     },
     {
-      "name": "苏丹的游戏",
-      "bundleIdentifier": "com.ioskuka.catalog.2feb9f787d276fde56e9",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260729/84e5b04454f7ae62d5d7184570759018.png",
-      "localizedDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
-      "version": "1.0.2",
-      "versionDate": "2026-07-29T11:51:58+08:00",
-      "versionDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
-      "size": 757124301
-    },
-    {
       "name": "向僵尸开炮国际版",
       "bundleIdentifier": "com.ioskuka.catalog.6d66a211643a71ef8850",
       "developerName": "Kuka Source",
@@ -1287,30 +1803,6 @@
       "size": 454442353
     },
     {
-      "name": "红果漫剧",
-      "bundleIdentifier": "com.ioskuka.catalog.08f422210ca14f77ec77",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260704/11ecfc257750743aa032cbddbede2389.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.",
-      "version": "7.3.7",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.",
-      "size": 323602416
-    },
-    {
-      "name": "泰拉瑞亚",
-      "bundleIdentifier": "com.ioskuka.catalog.9a86b4064785ebfa26c9",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251212/405bd673bdd00997222aeae93e46befc.png",
-      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "version": "1.4.56002",
-      "versionDate": "2026-07-22T19:19:25+08:00",
-      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "size": 294010225
-    },
-    {
       "name": "Varlens",
       "bundleIdentifier": "com.ioskuka.catalog.d700dca771414e2702fa",
       "developerName": "Kuka Source",
@@ -1333,18 +1825,6 @@
       "versionDate": "2026-07-22T19:19:26+08:00",
       "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
       "size": 8388608
-    },
-    {
-      "name": "极简阅读",
-      "bundleIdentifier": "com.ioskuka.catalog.a514148dfa7e47595809",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260702/3c2a1d64c3644b15aeb39ca0d6e4da3d.png",
-      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.\n✅ Có tích hợp plugin bổ sung.",
-      "version": "2.2.0",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.\n✅ Có tích hợp plugin bổ sung.",
-      "size": 36012506
     },
     {
       "name": "超市模拟器",
@@ -1393,18 +1873,6 @@
       "versionDate": "2026-07-22T19:19:26+08:00",
       "versionDescription": "✅ Có tính năng chống thu hồi nội dung/tin nhắn.",
       "size": 196377313
-    },
-    {
-      "name": "字幕翻译",
-      "bundleIdentifier": "com.ioskuka.catalog.1cb451ad6657a147abf6",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260828/840866672b1510475f50eccfd1ccebae.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng dịch.\n✅ Có tính năng liên quan đến video/phim.",
-      "version": "1.6.5",
-      "versionDate": "2026-08-28T14:27:52+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng dịch.\n✅ Có tính năng liên quan đến video/phim.",
-      "size": 107657298
     },
     {
       "name": "封魔大陆",
@@ -1599,18 +2067,6 @@
       "size": 0
     },
     {
-      "name": "向僵尸开炮",
-      "bundleIdentifier": "com.ioskuka.catalog.3d48d54b48c422a4775b",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260610/3ca6e2898d8dc6fe1be381d7c0ec6b40.png",
-      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Đạn/đạn dược không giới hạn.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "1.59.1",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Đạn/đạn dược không giới hạn.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.\n✅ Có tính năng tăng tốc.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 2081209791
-    },
-    {
       "name": "闪电水印",
       "bundleIdentifier": "com.ioskuka.catalog.dc7bfbc31fd15b74218c",
       "developerName": "Kuka Source",
@@ -1743,18 +2199,6 @@
       "size": 216876974
     },
     {
-      "name": "SOUL",
-      "bundleIdentifier": "com.ioskuka.catalog.e80bb97b2d9d22fdf231",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260522/fb25404ea41dc13df94aed09aff33e5b.png",
-      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến loại bỏ/lưu nội dung không watermark.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.",
-      "version": "6.34.0",
-      "versionDate": "2026-09-03T01:07:23+08:00",
-      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến loại bỏ/lưu nội dung không watermark.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng chống thu hồi nội dung/tin nhắn.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.",
-      "size": 210712973
-    },
-    {
       "name": "光·遇",
       "bundleIdentifier": "com.ioskuka.catalog.7cc5dae83c8a817ea97c",
       "developerName": "Kuka Source",
@@ -1765,30 +2209,6 @@
       "versionDate": "2026-07-22T19:19:26+08:00",
       "versionDescription": "✅ Không giới hạn một số chỉ số như kỹ năng, năng lượng, sinh lực hoặc tim.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: KUKA.",
       "size": 2306867200
-    },
-    {
-      "name": "沙石镇时光",
-      "bundleIdentifier": "com.ioskuka.catalog.6d647ee02434a5a17ed4",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260207/eb90e0c5582009a381f3cdf883d1096c.png",
-      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "version": "1.13",
-      "versionDate": "2026-07-22T19:19:25+08:00",
-      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "size": 1782579200
-    },
-    {
-      "name": "快来当领主国服修改版",
-      "bundleIdentifier": "com.ioskuka.catalog.6f6071888a3189c0e9ca",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260518/4a558f97ff4ed35e0c3930929735e379.png",
-      "localizedDescription": "✅ Không giới hạn tiền vàng.\n✅ Có tính năng tăng tốc.",
-      "version": "1.4.9",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Có tính năng tăng tốc.",
-      "size": 1692624373
     },
     {
       "name": "酷安",
@@ -1887,18 +2307,6 @@
       "size": 314572800
     },
     {
-      "name": "心灵渡船",
-      "bundleIdentifier": "com.ioskuka.catalog.803cd14b66af4f9e05b5",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260130/6dc67e25133b3dfa0ba6dc8ea3c10930.png",
-      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: AppStore.",
-      "version": "3.1",
-      "versionDate": "2026-07-22T19:19:25+08:00",
-      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: AppStore.",
-      "size": 1568669696
-    },
-    {
       "name": "第二次世界大战",
       "bundleIdentifier": "com.ioskuka.catalog.d59cc6b690faf8b41f68",
       "developerName": "Kuka Source",
@@ -1993,6 +2401,54 @@
       "versionDate": "2026-07-22T19:19:26+08:00",
       "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến loại bỏ/lưu nội dung không watermark.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
       "size": 27755807
+    },
+    {
+      "name": "酷我音乐",
+      "bundleIdentifier": "com.ioskuka.catalog.035ab56d2330503b7b2a",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260126/512c46920252e6ddb4fe48270dea2879.png",
+      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "version": "1.0.5",
+      "versionDate": "2026-07-22T19:19:25+08:00",
+      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
+      "size": 58699284
+    },
+    {
+      "name": "泰拉瑞亚",
+      "bundleIdentifier": "com.ioskuka.catalog.9a86b4064785ebfa26c9",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20251212/405bd673bdd00997222aeae93e46befc.png",
+      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "version": "1.4.56002",
+      "versionDate": "2026-07-22T19:19:25+08:00",
+      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "size": 294010225
+    },
+    {
+      "name": "沙石镇时光",
+      "bundleIdentifier": "com.ioskuka.catalog.6d647ee02434a5a17ed4",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260207/eb90e0c5582009a381f3cdf883d1096c.png",
+      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "version": "1.13",
+      "versionDate": "2026-07-22T19:19:25+08:00",
+      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
+      "size": 1782579200
+    },
+    {
+      "name": "心灵渡船",
+      "bundleIdentifier": "com.ioskuka.catalog.803cd14b66af4f9e05b5",
+      "developerName": "Kuka Source",
+      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
+      "iconURL": "https://app.ioskuka.com/uploads/20260130/6dc67e25133b3dfa0ba6dc8ea3c10930.png",
+      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: AppStore.",
+      "version": "3.1",
+      "versionDate": "2026-07-22T19:19:25+08:00",
+      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: AppStore.",
+      "size": 1568669696
     },
     {
       "name": "神枪行动",
@@ -2091,18 +2547,6 @@
       "size": 5525996
     },
     {
-      "name": "SenPlayer",
-      "bundleIdentifier": "com.ioskuka.catalog.b725ddab60a2b3a89c7f",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260504/2579834d9b18702e700447681eaf2b57.png",
-      "localizedDescription": "✅ Trình phát đa phương tiện.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.",
-      "version": "6.1.8",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Trình phát đa phương tiện.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.",
-      "size": 61620734
-    },
-    {
       "name": "生存小队",
       "bundleIdentifier": "com.ioskuka.catalog.dbd4d89697912409bb2c",
       "developerName": "Kuka Source",
@@ -2199,18 +2643,6 @@
       "size": 227540992
     },
     {
-      "name": "ImgPlay",
-      "bundleIdentifier": "com.ioskuka.catalog.bfb34b5782fd1f601c5f",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260430/1ad58a33fe6820b2bbd140c3c4158d68.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.\n✅ Có tích hợp plugin bổ sung.",
-      "version": "6.7.0",
-      "versionDate": "2026-07-30T01:30:56+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.\n✅ Có tích hợp plugin bổ sung.",
-      "size": 190701683
-    },
-    {
       "name": "荒野大镖客",
       "bundleIdentifier": "com.ioskuka.catalog.463a6d762115a3e162ae",
       "developerName": "Kuka Source",
@@ -2257,18 +2689,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Có tùy chọn tắt xác nhận đã đọc.\n✅ Hỗ trợ một số tính năng nhắn tin bổ sung.\n✅ Có tính năng ẩn tin nhắn và chống thu hồi theo mô tả nguồn.",
       "size": 159383552
-    },
-    {
-      "name": "Punko.io™",
-      "bundleIdentifier": "com.ioskuka.catalog.27c00c864221f9e6222d",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260428/e8ab174c221e7ac8184c47f096e40956.png",
-      "localizedDescription": "✅ Có chỉnh sửa liên quan đến mua hàng trong ứng dụng/tài nguyên trả phí.",
-      "version": "1.1.12",
-      "versionDate": "2026-08-28T12:31:52+08:00",
-      "versionDescription": "✅ Có chỉnh sửa liên quan đến mua hàng trong ứng dụng/tài nguyên trả phí.",
-      "size": 230092135
     },
     {
       "name": "骰战怪物",
@@ -2475,18 +2895,6 @@
       "size": 160862044
     },
     {
-      "name": "魔法工艺",
-      "bundleIdentifier": "com.ioskuka.catalog.2d4001249034997e9b97",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260206/1b5271d95541b67d4f0c259b1faae111.png",
-      "localizedDescription": "✅ Không giới hạn tiền vàng.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "version": "1.2.36",
-      "versionDate": "2026-08-31T09:52:39+08:00",
-      "versionDescription": "✅ Không giới hạn tiền vàng.\n✅ Có chế độ bất tử/miễn sát thương.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "size": 731387224
-    },
-    {
       "name": "瘟疫公司",
       "bundleIdentifier": "com.ioskuka.catalog.19f94cd57fbc8e65a187",
       "developerName": "Kuka Source",
@@ -2521,18 +2929,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
       "size": 853540864
-    },
-    {
-      "name": "植物大战僵尸杂交版",
-      "bundleIdentifier": "com.ioskuka.catalog.264c6f2c5b5183d37c31",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260329/6bed92263c0edfb638a79bfd843a2dfe.jpg",
-      "localizedDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
-      "version": "0.27.0.0",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Bản ứng dụng được nguồn Kuka lưu trữ/chỉnh sửa; mô tả gốc không đủ rõ để dịch chi tiết mà không suy đoán.",
-      "size": 360070658
     },
     {
       "name": "植物大战僵尸杂交版",
@@ -2943,18 +3339,6 @@
       "size": 158701978
     },
     {
-      "name": "FM收音机",
-      "bundleIdentifier": "com.ioskuka.catalog.f1c67de058e4333e7034",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260330/72b670b667233b4734b1e266014f94de.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
-      "version": "10.2.1",
-      "versionDate": "2026-07-30T01:30:56+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
-      "size": 94940541
-    },
-    {
       "name": "钉钉",
       "bundleIdentifier": "com.ioskuka.catalog.2d8efefebec1e3b00dfa",
       "developerName": "Kuka Source",
@@ -3001,18 +3385,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Có tính năng mạng/VPN/proxy hoặc tùy chỉnh lưu lượng.",
       "size": 18874368
-    },
-    {
-      "name": "地球末日:生存",
-      "bundleIdentifier": "com.ioskuka.catalog.103177f6a55e91d43c45",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260327/3f8671fc5ad551f6fcd3ca8600326915.jpg",
-      "localizedDescription": "✅ Có tích hợp plugin bổ sung.\n✅ Có ghi chú hoặc xử lý liên quan đến jailbreak.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
-      "version": "1.50.0",
-      "versionDate": "2026-07-25T17:16:04+08:00",
-      "versionDescription": "✅ Có tích hợp plugin bổ sung.\n✅ Có ghi chú hoặc xử lý liên quan đến jailbreak.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
-      "size": 1029890376
     },
     {
       "name": "这是我的战争:故事集",
@@ -3171,18 +3543,6 @@
       "size": 75099013
     },
     {
-      "name": "彩云天气Pro",
-      "bundleIdentifier": "com.ioskuka.catalog.d0ed90109c479ae52c14",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251017/82d3a4fe40f95001d83416024c9da6dd.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "7.63.1",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 74063274
-    },
-    {
       "name": "牛牛视频",
       "bundleIdentifier": "com.ioskuka.catalog.888a8afc01d07cb1ea7d",
       "developerName": "Kuka Source",
@@ -3193,42 +3553,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Có tính năng liên quan đến video/phim.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: wksp666666.",
       "size": 39090913
-    },
-    {
-      "name": "彩云天气",
-      "bundleIdentifier": "com.ioskuka.catalog.1a6d79e6105de4dc13f5",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251017/1ad18d55403a7848d9ab652f6c91fe4d.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "7.63.1",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 119336846
-    },
-    {
-      "name": "番茄小说",
-      "bundleIdentifier": "com.ioskuka.catalog.4e39bd5885a7e958ac84",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260324/442afe34ae3d7d054b4707002a15da2e.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
-      "version": "7.3.7",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
-      "size": 300543275
-    },
-    {
-      "name": "红果短剧",
-      "bundleIdentifier": "com.ioskuka.catalog.3ad36dc4ed57998ce972",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260324/748009455e3f90bd4134209faed9ad2b.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "7.3.7",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 297125859
     },
     {
       "name": "以撒的结合",
@@ -3267,18 +3591,6 @@
       "size": 115448218
     },
     {
-      "name": "AListServer",
-      "bundleIdentifier": "com.ioskuka.catalog.73761be857634d062b5d",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260323/9e46a5766713b7f0d21600b8b1d37792.jpg",
-      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n⚠️ Ứng dụng có thể đã bị gỡ hoặc có nguy cơ bị gỡ khỏi App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: AList.",
-      "version": "2.9",
-      "versionDate": "2026-08-31T10:06:25+08:00",
-      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n⚠️ Ứng dụng có thể đã bị gỡ hoặc có nguy cơ bị gỡ khỏi App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: AList.",
-      "size": 86170375
-    },
-    {
       "name": "杏林物语",
       "bundleIdentifier": "com.ioskuka.catalog.c43a8bd0d7d7e5518c26",
       "developerName": "Kuka Source",
@@ -3313,18 +3625,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
       "size": 139460608
-    },
-    {
-      "name": "菜鸟",
-      "bundleIdentifier": "com.ioskuka.catalog.999dd4ec776be31baa0c",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251130/005f67a0f98d106bd0127fd3fd7c46f4.png",
-      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tích hợp plugin bổ sung.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: Vita.",
-      "version": "8.11.727",
-      "versionDate": "2026-07-29T11:46:15+08:00",
-      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tích hợp plugin bổ sung.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: Vita.",
-      "size": 80000092
     },
     {
       "name": "迪托之剑",
@@ -3603,18 +3903,6 @@
       "size": 24117248
     },
     {
-      "name": "Turrit",
-      "bundleIdentifier": "com.ioskuka.catalog.21e68eec5fb5430faac8",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260222/f54d73b3eb32a798c228eb726c32f697.png",
-      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng tăng tốc.\n✅ Có tính năng dịch.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có tích hợp plugin bổ sung.",
-      "version": "1.5.3",
-      "versionDate": "2026-09-03T01:07:23+08:00",
-      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng tăng tốc.\n✅ Có tính năng dịch.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.\n✅ Có tích hợp plugin bổ sung.",
-      "size": 97059132
-    },
-    {
       "name": "Telegram Messenger",
       "bundleIdentifier": "com.ioskuka.catalog.0939647f8b081055e65b",
       "developerName": "Kuka Source",
@@ -3771,18 +4059,6 @@
       "size": 2936012800
     },
     {
-      "name": "我的世界",
-      "bundleIdentifier": "com.ioskuka.catalog.bbd4a773417d64eb468b",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260214/c56e6c2fa7a2d2351dc2a2b8c1559251.png",
-      "localizedDescription": "✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
-      "version": "1.26.45",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
-      "size": 756433943
-    },
-    {
       "name": "全豆要-聚合音源v4.0",
       "bundleIdentifier": "com.ioskuka.catalog.18cdd9f544e249f60f62",
       "developerName": "Kuka Source",
@@ -3817,18 +4093,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
       "size": 1405091840
-    },
-    {
-      "name": "千阅",
-      "bundleIdentifier": "com.ioskuka.catalog.d93cb7adc44524227a9b",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260208/cf3e66cf51ce81ea14539896e7352712.png",
-      "localizedDescription": "✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.",
-      "version": "2.9.9",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.",
-      "size": 52459974
     },
     {
       "name": "鬼谷八荒",
@@ -3927,18 +4191,6 @@
       "size": 1056366920
     },
     {
-      "name": "VidHub",
-      "bundleIdentifier": "com.ioskuka.catalog.5febc348e9ff73da14ff",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260130/e3cbb0752f8f7c9c68788744d92625df.png",
-      "localizedDescription": "✅ Trình phát đa phương tiện.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.",
-      "version": "3.0.4",
-      "versionDate": "2026-08-23T02:36:34+08:00",
-      "versionDescription": "✅ Trình phát đa phương tiện.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng phát nội dung đa phương tiện.",
-      "size": 67783968
-    },
-    {
       "name": "怪物乐土",
       "bundleIdentifier": "com.ioskuka.catalog.720579e1c46613ea728b",
       "developerName": "Kuka Source",
@@ -3949,18 +4201,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
       "size": 247463936
-    },
-    {
-      "name": "番茄畅听",
-      "bundleIdentifier": "com.ioskuka.catalog.83ff840aa752277a34b5",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20250803/0eeaae06560de4d6bb67f3179f3875e6.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
-      "version": "6.6.8",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
-      "size": 257872523
     },
     {
       "name": "波西亚时光",
@@ -3985,18 +4225,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng liên quan đến video/phim.",
       "size": 42456842
-    },
-    {
-      "name": "电工仿真接线助手",
-      "bundleIdentifier": "com.ioskuka.catalog.c444f96f14a62ebb40d4",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260806/fcd980722efa391bfc4f9494460ba180.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "1.0.20",
-      "versionDate": "2026-08-06T01:33:09+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 19241370
     },
     {
       "name": "家园、异星与猎人",
@@ -4191,18 +4419,6 @@
       "size": 523574968
     },
     {
-      "name": "Instagram",
-      "bundleIdentifier": "com.ioskuka.catalog.c5cc021ab8437e333dbd",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260114/8ada83da0d62d545b6a5e11231d9989e.png",
-      "localizedDescription": "✅ Bản Instagram có các chỉnh sửa/tính năng bổ sung theo nguồn Kuka.\n✅ Các chức năng thường liên quan đến tải nội dung, quảng cáo hoặc quyền riêng tư tùy phiên bản.",
-      "version": "440.0.0",
-      "versionDate": "2026-07-30T01:30:56+08:00",
-      "versionDescription": "✅ Bản Instagram có các chỉnh sửa/tính năng bổ sung theo nguồn Kuka.\n✅ Các chức năng thường liên quan đến tải nội dung, quảng cáo hoặc quyền riêng tư tùy phiên bản.",
-      "size": 337274703
-    },
-    {
       "name": "uz影视",
       "bundleIdentifier": "com.ioskuka.catalog.32d4393345db2dd37ecb",
       "developerName": "Kuka Source",
@@ -4285,18 +4501,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "ℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: GPT4.0, GPT-4o, GPT-5.",
       "size": 203801231
-    },
-    {
-      "name": "大侠立志传",
-      "bundleIdentifier": "com.ioskuka.catalog.5ea4065a43f6a132832d",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260108/3b0b2a74cac78f3955990e532ae2bcc4.png",
-      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "version": "1.2.130",
-      "versionDate": "2026-09-20T00:54:26+08:00",
-      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "size": 898812284
     },
     {
       "name": "讯飞输入法",
@@ -4455,18 +4659,6 @@
       "size": 239693988
     },
     {
-      "name": "无他相机",
-      "bundleIdentifier": "com.ioskuka.catalog.de4848ae5968dca913e9",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251212/4429101134b21659efd9b11a7f78ce69.png",
-      "localizedDescription": "✅ Ứng dụng máy ảnh/chỉnh sửa hình ảnh.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
-      "version": "7.5.1",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Ứng dụng máy ảnh/chỉnh sửa hình ảnh.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
-      "size": 153788883
-    },
-    {
       "name": "无谓契约公益内核",
       "bundleIdentifier": "com.ioskuka.catalog.91ca52f49276dc36ae2e",
       "developerName": "Kuka Source",
@@ -4503,18 +4695,6 @@
       "size": 203843174
     },
     {
-      "name": "高德地图",
-      "bundleIdentifier": "com.ioskuka.catalog.b5d4e86dd49ce1dce968",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251205/bbe30425355b60a78d2041eaceaf6d2f.png",
-      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có ghi chú liên quan đến TrollStore.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: carplay.",
-      "version": "16.25.1",
-      "versionDate": "2026-09-02T01:44:48+08:00",
-      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có ghi chú liên quan đến TrollStore.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: carplay.",
-      "size": 174455324
-    },
-    {
       "name": "WiFi万能钥匙",
       "bundleIdentifier": "com.ioskuka.catalog.79117e1efa0f2b894b7b",
       "developerName": "Kuka Source",
@@ -4527,18 +4707,6 @@
       "size": 59768832
     },
     {
-      "name": "两步路户外助手",
-      "bundleIdentifier": "com.ioskuka.catalog.1ab5516d337504cbb9ef",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20260429/a9f199567566eb8cfafcc3f42084ddc6.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
-      "version": "9.2.4",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.",
-      "size": 132141164
-    },
-    {
       "name": "漫阅+",
       "bundleIdentifier": "com.ioskuka.catalog.756544edc8f69daacaee",
       "developerName": "Kuka Source",
@@ -4549,30 +4717,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Có nội dung/tính năng liên quan đến truyện tranh hoặc anime.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: https, git.nyne.dev, nyne, venera-configs, raw.",
       "size": 30408704
-    },
-    {
-      "name": "美颜相机",
-      "bundleIdentifier": "com.ioskuka.catalog.bed1efa16041ddbbb894",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251205/bc3dcedea2f1e5cd31f2ce2375f58037.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "13.3.20",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 269387068
-    },
-    {
-      "name": "美图秀秀",
-      "bundleIdentifier": "com.ioskuka.catalog.d586e3a2e0034b24260a",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251205/ee7a4ecceb878e777545a5721eeb916c.png",
-      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "12.17.0",
-      "versionDate": "2026-08-24T01:01:55+08:00",
-      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 368577594
     },
     {
       "name": "Retouch",
@@ -4647,18 +4791,6 @@
       "size": 1992294400
     },
     {
-      "name": "Picsart AI Photo Editor, Video",
-      "bundleIdentifier": "com.ioskuka.catalog.3994b3397912c995d436",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251205/f1cc95392bee81bc9e4a9478be8294ce.png",
-      "localizedDescription": "✅ Bản Picsart chỉnh sửa dành cho chỉnh sửa/làm đẹp ảnh.\n✅ Đăng nhập để kích hoạt các tính năng thành viên theo mô tả của nguồn.\n✅ Mở khóa các tính năng nâng cao của ứng dụng.",
-      "version": "30.7.2",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Bản Picsart chỉnh sửa dành cho chỉnh sửa/làm đẹp ảnh.\n✅ Đăng nhập để kích hoạt các tính năng thành viên theo mô tả của nguồn.\n✅ Mở khóa các tính năng nâng cao của ứng dụng.",
-      "size": 110986422
-    },
-    {
       "name": "和平风神公益内核",
       "bundleIdentifier": "com.ioskuka.catalog.47834619144eb5849678",
       "developerName": "Kuka Source",
@@ -4695,18 +4827,6 @@
       "size": 3145728000
     },
     {
-      "name": "微博",
-      "bundleIdentifier": "com.ioskuka.catalog.8eaa8b57f4f0ed96c16a",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251130/2ab3949d641427c7c99c2ae75afd1a23.png",
-      "localizedDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tích hợp plugin bổ sung.",
-      "version": "16.7.4",
-      "versionDate": "2026-07-31T01:30:25+08:00",
-      "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tích hợp plugin bổ sung.",
-      "size": 195178033
-    },
-    {
       "name": "扫描全能王",
       "bundleIdentifier": "com.ioskuka.catalog.1732cd58c2c59055262a",
       "developerName": "Kuka Source",
@@ -4741,18 +4861,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng đọc sách/tiểu thuyết hoặc đổi nguồn nội dung.",
       "size": 106954752
-    },
-    {
-      "name": "Colorful Widget",
-      "bundleIdentifier": "com.ioskuka.catalog.1668dae33e797ee0f8f5",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251122/8e66f8ef9d8ee668ee0b27dc4950ec4c.png",
-      "localizedDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "18.6.0",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 367840794
     },
     {
       "name": "Forest",
@@ -4971,18 +5079,6 @@
       "size": 205709640
     },
     {
-      "name": "我的桌面",
-      "bundleIdentifier": "com.ioskuka.catalog.e4847e9d5cebdb07e3a9",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251030/627c133c718e291cee348fbf0542a54b.png",
-      "localizedDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "5.1.05",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "versionDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 327231443
-    },
-    {
       "name": "WeChat",
       "bundleIdentifier": "com.ioskuka.catalog.a6bcb0aa806a01bc33c3",
       "developerName": "Kuka Source",
@@ -5005,18 +5101,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Có chỉnh sửa để giảm, chặn hoặc bỏ qua quảng cáo.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có tính năng liên quan đến âm nhạc/chất lượng âm thanh.\n✅ Có tích hợp plugin bổ sung.\n✅ Có ghi chú hoặc xử lý liên quan đến jailbreak.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
       "size": 221249536
-    },
-    {
-      "name": "XPTV",
-      "bundleIdentifier": "com.ioskuka.catalog.e861b3309c2df4a57cb7",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20251017/a87624cde28e69e9b9247dba24f857fc.png",
-      "localizedDescription": "✅ Có tính năng phát nội dung đa phương tiện.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n✅ Có yêu cầu phiên bản iOS cụ thể; xem số phiên bản trong metadata.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: CMS, PAN, https, ghp.ci, raw.githubusercontent.com.",
-      "version": "4.20",
-      "versionDate": "2026-08-31T10:06:25+08:00",
-      "versionDescription": "✅ Có tính năng phát nội dung đa phương tiện.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.\n✅ Có yêu cầu phiên bản iOS cụ thể; xem số phiên bản trong metadata.\nℹ️ Tên kỹ thuật/plugin được nhắc trong nguồn: CMS, PAN, https, ghp.ci, raw.githubusercontent.com.",
-      "size": 34401884
     },
     {
       "name": "iemc",
@@ -5173,18 +5257,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
       "size": 100432609
-    },
-    {
-      "name": "王者视距",
-      "bundleIdentifier": "com.ioskuka.catalog.6d6402630b840705fca1",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20250803/addeb1795ad230b832480620fc1c2d0f.jpg",
-      "localizedDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.\n⚠️ Có cảnh báo rủi ro khóa tài khoản.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "4.4",
-      "versionDate": "2026-08-01T13:46:56+08:00",
-      "versionDescription": "✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có ghi chú liên quan đến TrollStore.\n⚠️ Có cảnh báo rủi ro khóa tài khoản.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 2289239
     },
     {
       "name": "英雄联盟S-18",
@@ -5475,18 +5547,6 @@
       "size": 50604278
     },
     {
-      "name": "文墨天机Pro",
-      "bundleIdentifier": "com.ioskuka.catalog.d2540a33af0c2f4582f3",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20250705/4e3c29af0756dbe450a180fa3c8aebce.png",
-      "localizedDescription": "✅ Có chỉnh sửa liên quan đến mua hàng trong ứng dụng/tài nguyên trả phí.",
-      "version": "2.5.23",
-      "versionDate": "2026-09-13T21:20:12+08:00",
-      "versionDescription": "✅ Có chỉnh sửa liên quan đến mua hàng trong ứng dụng/tài nguyên trả phí.",
-      "size": 37602487
-    },
-    {
       "name": "职场浮生记",
       "bundleIdentifier": "com.ioskuka.catalog.10e3dc45922d078aa0ce",
       "developerName": "Kuka Source",
@@ -5689,18 +5749,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.",
       "size": 239578644
-    },
-    {
-      "name": "Uni Dream",
-      "bundleIdentifier": "com.ioskuka.catalog.e1d6d6444ed1db4d696f",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20250614/829dbf442de72b1ff667ed6da55b6c44.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "version": "6.8.8",
-      "versionDate": "2026-08-31T10:06:25+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n⚠️ Nguồn Kuka ghi chú tài nguyên chỉ dành cho học tập/thử nghiệm.",
-      "size": 169984287
     },
     {
       "name": "西窗烛",
@@ -7803,18 +7851,6 @@
       "size": 23498588
     },
     {
-      "name": "壁纸",
-      "bundleIdentifier": "com.ioskuka.catalog.72afedaf955566db3aae",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20250121/96599211719ba48fb518a3a237085e53.jpg",
-      "localizedDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
-      "version": "6.0.1",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "versionDescription": "✅ Ứng dụng hình nền/chủ đề.\n✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng tải xuống hoặc xuất nội dung.\n✅ Có yêu cầu/lưu ý liên quan đến đăng nhập.",
-      "size": 15578152
-    },
-    {
       "name": "PicArt美易",
       "bundleIdentifier": "com.ioskuka.catalog.94dedf89b9a44fb2ecdf",
       "developerName": "Kuka Source",
@@ -8485,18 +8521,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Có chế độ bất tử/miễn sát thương.\n✅ Có tính năng tăng sát thương/tiêu diệt nhanh.",
       "size": 576423199
-    },
-    {
-      "name": "拦截猫",
-      "bundleIdentifier": "com.ioskuka.catalog.c8a53181838dd4beaa93",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20241208/57aaee18144c5587066709f0bdebc568.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "1.6.6",
-      "versionDate": "2026-07-31T01:30:25+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 36053984
     },
     {
       "name": "Voices AI",
@@ -12483,18 +12507,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.\n✅ Có tính năng liên quan đến ảnh/chỉnh sửa ảnh.\n✅ Có tính năng liên quan đến video/phim.",
       "size": 108632474
-    },
-    {
-      "name": "疯狂背单词",
-      "bundleIdentifier": "com.ioskuka.catalog.15a3d5b95e01dcae4a56",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20240911/ab4b483ff67ffa541484d009b48cf16b.png",
-      "localizedDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "version": "2.25",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "versionDescription": "✅ Mở khóa tính năng thành viên/VIP/Pro.",
-      "size": 51751498
     },
     {
       "name": "变声器",
@@ -25947,18 +25959,6 @@
       "versionDate": "2026-07-22T19:19:25+08:00",
       "versionDescription": "✅ Trình duyệt web.\n✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
       "size": 2411725
-    },
-    {
-      "name": "myTuner Radio",
-      "bundleIdentifier": "com.ioskuka.catalog.5d0d89b74fe0e58abd62",
-      "developerName": "Kuka Source",
-      "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
-      "iconURL": "https://app.ioskuka.com/uploads/20231031/93120bc536c750ea7c32c5696ec7a99e.jpeg",
-      "localizedDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "version": "10.2.2",
-      "versionDate": "2026-09-03T01:07:23+08:00",
-      "versionDescription": "✅ Nguồn mô tả đây là ứng dụng/game trả phí hoặc bản đã giải mã để cài ngoài App Store.",
-      "size": 94894108
     },
     {
       "name": "APlayer",
