@@ -2,7 +2,7 @@ import json,re,time,urllib.parse,urllib.request,concurrent.futures,threading
 from pathlib import Path
 
 APPS="apps.json"
-CAND="apple_name_candidates.json"
+CAND="fast_apple_candidates.json" if Path("fast_apple_candidates.json").exists() else "apple_name_candidates.json"
 REPORT="name_normalization_report.json"
 UA="Mozilla/5.0"
 CJK_RE=re.compile(r"[\u3400-\u9fff]")
