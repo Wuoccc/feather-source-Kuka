@@ -4,6 +4,7 @@ on:
     paths:
       - "apple_name_candidates.json"
       - "fast_apple_candidates.json"
+      - ".github/workflows/apply-full-name-normalization.yml"
 permissions:
   contents: write
 jobs:
@@ -27,5 +28,6 @@ jobs:
             echo "No changes"
           else
             git commit -m "Normalize all remaining Chinese app names"
+            git pull --rebase origin main
             git push origin main
           fi
