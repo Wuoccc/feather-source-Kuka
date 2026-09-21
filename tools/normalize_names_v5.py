@@ -36,7 +36,7 @@ def rate_wait():
         now = time.monotonic()
         if now < _next_request:
             time.sleep(_next_request - now)
-        _next_request = time.monotonic() + 0.50
+        _next_request = time.monotonic() + 0.12
 
 def http_json(url, retries=3, timeout=12):
     for attempt in range(retries):
@@ -170,7 +170,7 @@ def main():
     # Curated bases do not need Apple search again.
     search_items = [(b, ver) for b, ver in unique.items() if b not in CURATED]
     identified = {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as ex:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as ex:
         for r in ex.map(identify_one, search_items):
             identified[r["base"]] = r
 
