@@ -1,419 +1,210 @@
 {
-  "checkedAt": "2026-09-21T04:57:53.906822+00:00",
-  "count": 2244,
-  "sourceKeys": [
-    "apps",
-    "identifier",
-    "message",
-    "name",
-    "payURL",
-    "sourceURL",
-    "sourceicon",
-    "unlockURL"
-  ],
-  "sourceName": "酷卡软件源—秒出证书68一年",
-  "sourceIdentifier": "自用源不对外开放，仅用于学习交流",
-  "sourceIcon": "https://blog.ioskuka.com/zb_users/upload/2023/03/202303161678978109591752.jpg",
-  "latest40": [
-    {
-      "name": "‼️公告内容‼️",
-      "version": "kuka",
-      "versionDate": "2026-05-16T23:58:57+08:00",
-      "size": "1048576",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20240816/14084fce2127c5f26e34269e9b46bff5.jpg",
-      "versionDescription": "⚠️️‼点击右侧【解锁】获取解锁码，解锁一个等于解锁全部‼ \n⚠️️酷卡官网：https://ioskuka.com/\n⚠️️点击解锁-获取解锁码-跳转商城\n✅证书18元-无售后、38元-质保90天、68元-质保一年 (全网最稳证书，一年不掉)"
-    },
-    {
-      "name": "微信",
-      "version": "8.0.78",
-      "versionDate": "2026-09-13T21:20:12+08:00",
-      "size": "490702098",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260117/fab49b7456871dd2d4f5b1a023714183.jpg",
-      "versionDescription": "✅微信多合一无后台多开\n✅广告友好/✅老猫助手(密友)/✅斗图助手\n✅插件收纳/✅黄白助手/✅pkc助手\n✅凉心微信增强(自定义界面、伪装等)\n✅视频倍速控制手势、消息超级防撤回、收纳里长按插件排序等\n✅搜索插件管理、朋友圈防撤回、语音自动转文字、密友快捷跳转等\n⚠️资源来自网络，仅供学习交流，请下载后1小时内删除，请勿用于非法用途，请勿传播售卖，否则产生任何后"
-    },
-    {
-      "name": "微信",
-      "version": "8.0.78",
-      "versionDate": "2026-09-13T21:20:12+08:00",
-      "size": "490170127",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260117/85351bc2cd6bb5e77e5041911283ad9d.png",
-      "versionDescription": "✅微信多合一无后台官替\n✅广告友好/✅老猫助手(密友)/✅斗图助手\n✅插件收纳/✅黄白助手/✅pkc助手\n✅凉心微信增强(自定义界面、伪装等)\n✅视频倍速控制手势、消息超级防撤回、收纳里长按插件排序等\n✅搜索插件管理、朋友圈防撤回、语音自动转文字、密友快捷跳转等\n⚠️资源来自网络，仅供学习交流，请下载后1小时内删除，请勿用于非法用途，请勿传播售卖，否则产生任何后"
-    },
-    {
-      "name": "QQ",
-      "version": "9.3.50",
-      "versionDate": "2026-08-24T01:01:55+08:00",
-      "size": "372571595",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260325/b6ee8bfb9f61c4c5078b33f3fd5a621c.png",
-      "versionDescription": "✅插件默认关闭，自行按需开启，更新图层防撤回插件 \n✅防撤回查保存闪照等\n✅插件设置在QQ设置界面 \n✅QQ有检测，自行斟酌使用，封号自理"
-    },
-    {
-      "name": "游戏存档工具",
-      "version": "1.0.2",
-      "versionDate": "2026-08-04T00:37:48+08:00",
-      "size": "1048576",
-      "downloadURL": "https://pan.ioskuka.com/d/iosziyuan/iosziyuan/%E6%B8%B8%E6%88%8F%E5%AD%98%E6%A1%A3%E5%B7%A5%E5%85%B7_2.0.dylib",
-      "lock": "0",
-      "iconURL": "http://app.ioskuka.com/uploads/20260715/6e1f7c30829b0b90877afe217f67db02.jpg",
-      "versionDescription": "✅注入使用即可  \n✅可备份导出游戏数据包  \n✅可恢复备份的游戏数据包  \n✅可删除重置App游戏数据  \n✅证书巨魔都可以使用 \n✅新增玩家存档中心"
-    },
-    {
-      "name": "汽水音乐",
-      "version": "20.5.0",
-      "versionDate": "2026-08-13T00:24:19+08:00",
-      "size": "206349271.04",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260531/eb5e63098ae7895871609f2a67de0f70.png",
-      "versionDescription": "✅✅多开愤怒版本，证书用户需要先在App Store商店下载正版汽水音乐，然后登录等一分钟左右完成环境检测，然后再签名安装多开版本汽水音乐，登录后就可以跳广告领取天数了。 \n⚠️资源来自网络，仅用于测试交流，请下载后1小时内删除，不得售卖传播，否则自行承担法律风险，如有侵权联系管理删除"
-    },
-    {
-      "name": "酷我音乐",
-      "version": "1.0.5",
-      "versionDate": "2026-07-22T19:19:25+08:00",
-      "size": "58699284.48",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260126/512c46920252e6ddb4fe48270dea2879.png",
-      "versionDescription": "✅解锁会员所有功能，解锁SVip 付费专辑 无损音质\n✅需登录账号 无广告 无弹窗\n✅资源来自网络，仅用于学习交流"
-    },
-    {
-      "name": "抖音",
-      "version": "40.3.0",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "size": "715027653",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20251214/2c2fb1948e77409f764e55f61a47a646.png",
-      "versionDescription": "✅注入Yuki防撤回插件等，设置打开即可 \n✅抖音助手，三指长按开启 \n✅消息助手，自动回复消息续火花等\n✅安装后有问题可以覆盖 35.1.0版本试试 \n⚠资源来自网友投稿，仅用于测试交流"
-    },
-    {
-      "name": "抖音多开",
-      "version": "40.3.0",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "size": "717716997",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260320/23633129ec460afd8d2f1f1804940d1f.jpg",
-      "versionDescription": "✅多开版本\n✅注入Yuki防撤回插件等，设置打开即可 \n✅抖音助手，三指长按开启 \n✅消息助手，自动回复消息续火花等\n✅安装后有问题可以覆盖 35.1.0版本试试 \n⚠资源来自网友投稿，仅用于测试交流"
-    },
-    {
-      "name": "小红书",
-      "version": "9.47",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "size": "209022562",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20251104/54d21f39bd266a10a8ea002ed32dfe17.png",
-      "versionDescription": "✅ 注入 图层最新去实况水印插件，去视频水印等 去除几乎所有广告，支持所有图片和视频无水印，插件在设置右上方 \n✅长按复制文案标题(关注板块需要长按外面的视图 里面无效） \n✅APP 设置界面右上角打开菜单功能，打开插件才能使用功能"
-    },
-    {
-      "name": "今日水印相机",
-      "version": "3.0.450",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "size": "178597947",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260708/cb2801597aa3fdc2cab4fd43ea2607fb.png",
-      "versionDescription": "✅更改定位  \n✅更改日期和时间  \n✅替换拍摄照片  \n✅证书签名移除 Embedded  \n✅所有功能正常使用，可过验真  \n✅仅用于本群成员学习交流，切勿用于非法用途，切勿传播售卖，否则下架所有功能并闪退"
-    },
-    {
-      "name": "多邻国",
-      "version": "7.101.1",
-      "versionDate": "2026-09-02T01:44:48+08:00",
-      "size": "188439117",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260901/9425bfdfbd25a8689ab3dc384d129a92.png",
-      "versionDescription": "✅iOS 17.0以下使用\n✅解锁会员，无限红心\n✅所有会员功能可用，包括语音视频等\n✅高效学外语"
-    },
-    {
-      "name": "多邻国",
-      "version": "7.140.0",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "size": "222288070",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260901/9425bfdfbd25a8689ab3dc384d129a92.png",
-      "versionDescription": "✅iOS 17.0及以上使用\n✅解锁会员，无限红心\n✅所有会员功能可用，包括语音视频等\n✅高效学外语"
-    },
-    {
-      "name": "YouTube",
-      "version": "21.34.3",
-      "versionDate": "2026-08-28T12:31:52+08:00",
-      "size": "149084829",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260611/2c353340156e5e7443f70dbf3483662d.png",
-      "versionDescription": "✅注入YTKACE等插件  \n✅YTKACE支持下载高清视频，去除广告等，无限下载+画中画  \n✅下载功能已恢复  \n✅需要iOS16.0以上系统"
-    },
-    {
-      "name": "多邻国",
-      "version": "7.94.0",
-      "versionDate": "2026-09-02T01:44:48+08:00",
-      "size": "202966090",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260901/9425bfdfbd25a8689ab3dc384d129a92.png",
-      "versionDescription": "✅旧版兼容\n✅解锁会员，无限红心\n✅所有会员功能可用，包括语音视频等\n✅高效学外语"
-    },
-    {
-      "name": "网易云音乐",
-      "version": "9.5.90",
-      "versionDate": "2026-09-13T21:20:12+08:00",
-      "size": "200539593",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260316/c859a2351b7e1b57c1b1debfcf45cb3e.png",
-      "versionDescription": "✅解锁会员，解锁极高音质 \n✅所有VIP音乐可听，不会显示会员标志，仅对接口做处理 \n✅失效可远程更新获取接口 \n✅后台接口地址已混淆加密"
-    },
-    {
-      "name": "Fast VPN",
-      "version": "2.4",
-      "versionDate": "2026-07-28T16:46:24+08:00",
-      "size": "30408704",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260509/dd2f52279a8667e0c0873d05a8dd9b0d.jpg",
-      "versionDescription": "✅所有会员线路可用 \n✅速度还可以"
-    },
-    {
-      "name": "GOFast VPN",
-      "version": "1.4.0",
-      "versionDate": "2026-08-28T14:28:30+08:00",
-      "size": "81872814.08",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260804/2074949f8ba82c2648161ca9765f36fd.png",
-      "versionDescription": "✅解锁会员 \n✅所有会员线路可用 \n✅速度还可以"
-    },
-    {
-      "name": "酷狗音乐",
-      "version": "20.7.4",
-      "versionDate": "2026-08-04T00:40:51+08:00",
-      "size": "207167160.32",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260804/86a11c54a5a26c3f37e14b0e4d80d797.png",
-      "versionDescription": " ✅解锁会员，解锁极高音质  \n✅所有VIP音乐可听，不会显示会员标志  \n✅可以下载VIP歌曲，普通音质就是最高音质 \n✅其他音乐软件还有 动听播放器 网易云音乐"
-    },
-    {
-      "name": "X",
-      "version": "12.24",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "size": "250253961",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260108/1c5c3c3eebaefb3590547f3719989123.png",
-      "versionDescription": "✅注入BHTwitter汉化插件 \n✅BHT插件选项在推特设置里 \n✅具有虚拟定位，翻译等多个功能 \n✅仅限iOS15.0及以上"
-    },
-    {
-      "name": "大师兄影视",
-      "version": "1.6.5",
-      "versionDate": "2026-07-28T16:46:55+08:00",
-      "size": "52586086.4",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260316/90d81cdeb788bce313d0fe4e281d1c18.jpg",
-      "versionDescription": "✅关闭 VPN输入口令变身食用 \n✅打开应用后点击左上角!号，在输入框输入666，提交重新打开软件变身"
-    },
-    {
-      "name": "开心消消乐",
-      "version": "1.161.5",
-      "versionDate": "2026-09-11T09:50:41+08:00",
-      "size": "317571727.36",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260725/8239e2180da3dceeba5af27a6be44cb7.png",
-      "versionDescription": "✅无限体力 \n✅无限所有道具\n✅可使用道具实现步数无限 \n✅无限道具建议少用\n✅首次进入卡加载的话大退重进即可"
-    },
+  "checkedAt": "2026-09-21T04:58:26.464996+00:00",
+  "liveTotalIncludingAnnouncement": 2244,
+  "liveAppsExcludingAnnouncement": 2243,
+  "currentApps": 2243,
+  "liveLatest20": [
     {
       "name": "元气骑士",
       "version": "8.5.1",
-      "versionDate": "2026-09-20T01:22:05+08:00",
-      "size": "774432858",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260816/c38ed2fb336923b3e3ca59cf81f7e057.png",
-      "versionDescription": "✅**无限血量 无限能量 无限技能**\n✅**超级秒杀 攻速**\n✅**无限蓝币 鱼干**\n✅**全角色解锁 全皮肤解锁&#xA0;**\n✅**全技能解锁 重生卡解锁**"
+      "versionDate": "2026-09-20T01:22:05+08:00"
     },
     {
-      "name": "元书输入法",
-      "version": "1.8.1",
-      "versionDate": "2026-09-15T09:52:12+08:00",
-      "size": "45976882",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "https://app.ioskuka.com/uploads/20260915/yuanshu.jpg",
-      "versionDescription": "✅输入法增强版"
-    },
-    {
-      "name": "HiWidget",
-      "version": "5.0.15",
-      "versionDate": "2026-09-13T21:20:12+08:00",
-      "size": "444843674",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "https://app.ioskuka.com/uploads/20260913/hiwidget.jpg",
-      "versionDescription": "✅解锁会员功能"
-    },
-    {
-      "name": "潜水员戴夫",
-      "version": "1.0.41",
-      "versionDate": "2026-09-15T10:36:40+08:00",
-      "size": "3127577149.44",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260206/3b6e19b5820345c0829ea77eb3a6ff78.png",
-      "versionDescription": "✅无限氧气\n✅无敌免伤\n✅潜水加速/餐厅加速\n✅无限子弹证书可能无限，提取插件巨魔注入\n✅敌我免疫等\n✅steam热门端游正版移植 \n✅AppStore付费游戏砸壳 \n✅注入igg修改器可修改无限金币物品等"
-    },
-    {
-      "name": "红警2资源包",
-      "version": "1",
-      "versionDate": "2026-09-11T09:49:04+08:00",
-      "size": "1572864000",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260911/1484b92a9f9adb804589cac2b5eb406e.jpg",
-      "versionDescription": "尤里的复仇[免费版].zip"
-    },
-    {
-      "name": "百度网盘",
-      "version": "13.32.2",
-      "versionDate": "2026-09-13T21:20:12+08:00",
-      "size": "443923254",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260813/920c71a70bf37f944d8df615a0c0b59c.png",
-      "versionDescription": "✅解锁会员功能\n✅解锁部分会员功能 \n✅为下载的文件增加一键导出按钮"
-    },
-    {
-      "name": "快来当领主国服原版",
-      "version": "1.4.9",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "size": "1692450996",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260518/4a558f97ff4ed35e0c3930929735e379.png",
-      "versionDescription": "✅国服原版\n✅未修改版本"
-    },
-    {
-      "name": "红警2",
-      "version": "1.0.7",
-      "versionDate": "2026-09-11T09:46:53+08:00",
-      "size": "167772160",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260911/1484b92a9f9adb804589cac2b5eb406e.jpg",
-      "versionDescription": "✅资源由凯文制作移植 \n✅iOS端移植打包首发 \n✅下载资源包，自行配合导入资源包使用"
-    },
-    {
-      "name": "模拟人生",
-      "version": "117.1.280231",
-      "versionDate": "2026-09-09T01:16:23+08:00",
-      "size": "1677721600",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260909/aa705018e8a58261da66a099b847c55a.png",
-      "versionDescription": "✅无限货币\n✅无限活动代币\n✅无限生活积分\n✅无限社交积分\n✅Sims FreePlay"
-    },
-    {
-      "name": "饥饿鲨：世界",
-      "version": "8.1.6",
-      "versionDate": "2026-09-07T01:07:51+08:00",
-      "size": "196223401",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "https://app.ioskuka.com/uploads/20260907/hungry-shark-world.jpg",
-      "versionDescription": "✅Hungry Shark World\n✅最新上传版本"
-    },
-    {
-      "name": "小红书液态玻璃版",
-      "version": "9.47",
-      "versionDate": "2026-09-18T01:34:19+08:00",
-      "size": "209503236",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20251104/54d21f39bd266a10a8ea002ed32dfe17.png",
-      "versionDescription": "✅液态玻璃效果\n✅ 注入 图层最新去实况水印插件，去视频水印等 去除几乎所有广告，支持所有图片和视频无水印，插件在设置右上方 \n✅长按复制文案标题(关注板块需要长按外面的视图 里面无效） \n✅APP 设置界面右上角打开菜单功能，打开插件才能使用功能"
-    },
-    {
-      "name": "Beans（酷Q网）",
-      "version": "1.5.2",
-      "versionDate": "2026-09-02T01:44:48+08:00",
-      "size": "4244453",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "https://app.ioskuka.com/uploads/20260902/beans.png",
-      "versionDescription": "✅酷Q网客户端\n✅酷卡版本"
-    },
-    {
-      "name": "PivixHelper",
-      "version": "3.8.9",
-      "versionDate": "2026-09-02T01:44:48+08:00",
-      "size": "69277062",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "https://app.ioskuka.com/uploads/20260902/pivixhelper.jpg",
-      "versionDescription": "✅Pixiv辅助工具\n✅酷卡版本"
-    },
-    {
-      "name": "Uni Dream解锁版",
-      "version": "6.8.8",
-      "versionDate": "2026-09-01T02:50:46+08:00",
-      "size": "169984287",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20250614/829dbf442de72b1ff667ed6da55b6c44.png",
-      "versionDescription": "✅解锁会员版\n✅Ai绘图 \n✅解锁终身会员 \n✅购买界面直接叉掉，进入就是高级永久会员 \n⚠️资源来自网络，仅用于学习交流，请下载1小时内删除"
-    },
-    {
-      "name": "空间归档",
-      "version": "1.0.3",
-      "versionDate": "2026-08-31T10:06:25+08:00",
-      "size": "12063560",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "https://app.ioskuka.com/uploads/20260831/34f4bee9a0c0a37b2beada2e7eab1238.jpg",
-      "versionDescription": "✅QQ空间归档工具"
-    },
-    {
-      "name": "自动枪英雄",
-      "version": "1.15.3",
-      "versionDate": "2026-08-31T09:52:39+08:00",
-      "size": "425426845",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "https://app.ioskuka.com/uploads/20260831/434629b0234f64b7a1df5988c832cdf6.jpg",
-      "versionDescription": "✅无敌秒杀"
-    },
-    {
-      "name": "Jump VPN",
-      "version": "1.1.0",
-      "versionDate": "2026-08-31T10:03:22+08:00",
-      "size": "86151004.16",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260831/096d2fde2b89a6b66225afb3a041d91a.png",
-      "versionDescription": "✅解锁会员 \n✅所有会员线路可用"
+      "name": "梦想城镇",
+      "version": "39.0.2",
+      "versionDate": "2026-09-20T01:22:05+08:00"
     },
     {
       "name": "模拟城市",
       "version": "1.82.3",
-      "versionDate": "2026-09-20T00:54:26+08:00",
-      "size": "279645366",
-      "downloadURL": "",
-      "lock": "1",
-      "iconURL": "http://app.ioskuka.com/uploads/20260828/b855e8a86a97f30a3220a30066697450.png",
-      "versionDescription": "✅无限金币\n✅无限钞票\n✅所有资源无限\n✅SimCity BuildIt SimCity BuildIt"
+      "versionDate": "2026-09-20T00:54:26+08:00"
+    },
+    {
+      "name": "大侠立志传",
+      "version": "1.2.130",
+      "versionDate": "2026-09-20T00:54:26+08:00"
+    },
+    {
+      "name": "行尸走肉",
+      "version": "2.1.1",
+      "versionDate": "2026-09-18T21:18:06+08:00"
+    },
+    {
+      "name": "地球末日:生存",
+      "version": "1.52.0",
+      "versionDate": "2026-09-18T21:17:27+08:00"
+    },
+    {
+      "name": "TikTok",
+      "version": "46.9.0",
+      "versionDate": "2026-09-18T18:12:46+08:00"
+    },
+    {
+      "name": "小红书",
+      "version": "9.47",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "多邻国",
+      "version": "7.140.0",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "小红书液态玻璃版",
+      "version": "9.47",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "我比武特牛",
+      "version": "0.64.0",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "SenPlayer",
+      "version": "6.2.1",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "拦截猫",
+      "version": "1.6.14",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "极简阅读",
+      "version": "2.2.0",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "SenPlayer",
+      "version": "6.1.8",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "两步路户外助手",
+      "version": "9.2.4",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "PicsArt",
+      "version": "30.7.2",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "Colorful Widget",
+      "version": "18.6.0",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "我的桌面",
+      "version": "5.1.05",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "潜水员戴夫",
+      "version": "1.0.41",
+      "versionDate": "2026-09-15T10:36:40+08:00"
+    }
+  ],
+  "currentLatest20": [
+    {
+      "name": "Soul Knight (元气骑士)",
+      "version": "8.5.1",
+      "versionDate": "2026-09-20T01:22:05+08:00"
+    },
+    {
+      "name": "Township (梦想城镇)",
+      "version": "39.0.2",
+      "versionDate": "2026-09-20T01:22:05+08:00"
+    },
+    {
+      "name": "SimCity BuildIt (模拟城市)",
+      "version": "1.82.3",
+      "versionDate": "2026-09-20T00:54:26+08:00"
+    },
+    {
+      "name": "The Legend of Heroes' Determination (大侠立志传)",
+      "version": "1.2.130",
+      "versionDate": "2026-09-20T00:54:26+08:00"
+    },
+    {
+      "name": "The Walking Dead (行尸走肉)",
+      "version": "2.1.1",
+      "versionDate": "2026-09-18T21:18:06+08:00"
+    },
+    {
+      "name": "Last Day on Earth: Survival (地球末日:生存)",
+      "version": "1.52.0",
+      "versionDate": "2026-09-18T21:17:27+08:00"
+    },
+    {
+      "name": "TikTok",
+      "version": "46.9.0",
+      "versionDate": "2026-09-18T18:12:46+08:00"
+    },
+    {
+      "name": "rednote (小红书)",
+      "version": "9.47",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "Duolingo (多邻国)",
+      "version": "7.140.0",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "rednote - Liquid Glass Edition (小红书液态玻璃版)",
+      "version": "9.47",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "I compete with Wut cattle (我比武特牛)",
+      "version": "0.64.0",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "SenPlayer",
+      "version": "6.2.1",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "intercept cat (拦截猫)",
+      "version": "1.6.14",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "Minimalist reading (极简阅读)",
+      "version": "2.2.0",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "SenPlayer",
+      "version": "6.1.8",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "Two-step outdoor assistant (两步路户外助手)",
+      "version": "9.2.4",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "Picsart AI Photo Editor, Video",
+      "version": "30.7.2",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "Colorful Widget",
+      "version": "18.6.0",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "my desktop (我的桌面)",
+      "version": "5.1.05",
+      "versionDate": "2026-09-18T01:34:19+08:00"
+    },
+    {
+      "name": "DAVE THE DIVER (潜水员戴夫)",
+      "version": "1.0.41",
+      "versionDate": "2026-09-15T10:36:40+08:00"
     }
   ]
 }
