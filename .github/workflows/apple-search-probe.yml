@@ -1,0 +1,53 @@
+name: Apple search probe
+
+on:
+  push:
+    paths:
+      - ".github/workflows/apple-search-probe.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Probe Apple search sequentially
+        run: |
+          python - <<'PY'
+          import json,time,urllib.parse,urllib.request
+          names=["无他相机","B612咔叽","QQ邮箱","部落冲突","皇室战争","地铁跑酷","植物大战僵尸2","死亡细胞","星露谷物语","汽水音乐"]
+          out={}
+          for name in names:
+              q=urllib.parse.urlencode({"term":name,"country":"cn","entity":"software","limit":10})
+              url="https://itunes.apple.com/search?"+q
+              rows=[]
+              err=None
+              for attempt in range(3):
+                  try:
+                      req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0"})
+                      with urllib.request.urlopen(req,timeout=12) as r:
+                          d=json.loads(r.read().decode("utf-8","replace"))
+                      rows=[{"trackId":x.get("trackId"),"trackName":x.get("trackName"),"version":x.get("version"),"artistName":x.get("artistName")} for x in d.get("results",[])[:10]]
+                      break
+                  except Exception as e:
+                      err=str(e)
+                      time.sleep(1.0+attempt)
+              out[name]={"results":rows,"error":err if not rows else None}
+              time.sleep(1.0)
+          open(".apple-probe.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2)+"\n")
+          PY
+      - name: Commit probe
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .apple-probe.json
+          git commit -m "Probe Apple search reliability"
+          git pull --rebase origin main
+          git push origin main
