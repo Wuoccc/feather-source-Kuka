@@ -1,0 +1,35 @@
+name: Localize Kuka source
+
+on:
+  push:
+    paths:
+      - ".github/workflows/localize-kuka.yml"
+      - "tools/localize_kuka.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  localize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Localize apps.json
+        run: python tools/localize_kuka.py
+      - name: Commit apps.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add apps.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Localize Kuka source to Vietnamese"
+            git push origin main
+          fi
