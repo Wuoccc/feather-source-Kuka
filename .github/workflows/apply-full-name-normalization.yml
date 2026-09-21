@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - "apple_name_candidates.json"
+      - "fast_apple_candidates.json"
 permissions:
   contents: write
 jobs:
