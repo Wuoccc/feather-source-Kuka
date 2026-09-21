@@ -1,0 +1,302 @@
+{
+  "apps": 2243,
+  "appleResolved": 42,
+  "keptOriginalKuka": 1346,
+  "nonCjk": 855,
+  "sampleResolved": [
+    {
+      "index": 0,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 1,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 21,
+      "name": "Soul Knight (元气骑士)",
+      "trackId": 1184159988,
+      "score": 140,
+      "store": "us"
+    },
+    {
+      "index": 352,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 354,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 414,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 419,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 424,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 432,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 433,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 457,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 478,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 479,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 488,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 489,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 508,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 509,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 533,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 534,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 535,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 536,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 537,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 539,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 540,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 569,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 570,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 583,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 584,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 609,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 640,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 682,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 683,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 755,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 776,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 777,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 799,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 800,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 803,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 804,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 1285,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 1350,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    },
+    {
+      "index": 1367,
+      "name": "WeChat (微信)",
+      "trackId": 414478124,
+      "score": 140,
+      "store": "vn"
+    }
+  ]
+}
