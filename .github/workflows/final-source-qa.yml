@@ -1,0 +1,30 @@
+name: Final source QA
+
+on:
+  push:
+    paths:
+      - ".github/workflows/final-source-qa.yml"
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate raw apps.json
+        run: |
+          python - <<'PY'
+          import json, urllib.request
+          url="https://raw.githubusercontent.com/Wuoccc/feather-source-Kuka/refs/heads/main/apps.json"
+          with urllib.request.urlopen(url, timeout=30) as r:
+              data=json.loads(r.read())
+          apps=data.get("apps") or []
+          names=[str(a.get("name") or "") for a in apps]
+          assert len(apps)==2243, len(apps)
+          assert "Wuta Camera - Nice Shot Always (无他相机)" in names
+          assert "Soul Knight (元气骑士)" in names
+          assert not any("no other camera" in n.lower() for n in names)
+          assert not any("I compete with Wut cattle" in n for n in names)
+          assert all(str(a.get("iconURL") or "").strip() for a in apps)
+          assert all(str(a.get("version") or "").strip() for a in apps)
+          assert not any("downloadURL" in a and not str(a.get("downloadURL") or "").strip() for a in apps)
+          print("QA_OK", len(apps))
+          PY
