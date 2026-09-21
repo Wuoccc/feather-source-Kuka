@@ -65,7 +65,7 @@
       "size": 689428234
     },
     {
-      "name": "酷我音乐",
+      "name": "Kuwo Music (酷我音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.239cdd5829182614aa0b",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -77,7 +77,7 @@
       "size": 1085297132
     },
     {
-      "name": "抖音",
+      "name": "Douyin (抖音)",
       "bundleIdentifier": "com.ioskuka.catalog.03b554ea336caa828b85",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -89,7 +89,7 @@
       "size": 531009372
     },
     {
-      "name": "抖音多开",
+      "name": "Douyin - Multi-Instance (抖音多开)",
       "bundleIdentifier": "com.ioskuka.catalog.4ee54c7f6c76296d635a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -101,7 +101,7 @@
       "size": 209022562
     },
     {
-      "name": "小红书",
+      "name": "rednote (小红书)",
       "bundleIdentifier": "com.ioskuka.catalog.ed6b3855dfdf85f29434",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -125,7 +125,7 @@
       "size": 209503236
     },
     {
-      "name": "多邻国",
+      "name": "Duolingo (多邻国)",
       "bundleIdentifier": "com.ioskuka.catalog.30bb32b0bb6499f4e77f",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -137,7 +137,7 @@
       "size": 365652206
     },
     {
-      "name": "多邻国",
+      "name": "Duolingo (多邻国)",
       "bundleIdentifier": "com.ioskuka.catalog.900e0b53ca433f82e6c5",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -161,7 +161,7 @@
       "size": 74700011
     },
     {
-      "name": "多邻国",
+      "name": "Duolingo (多邻国)",
       "bundleIdentifier": "com.ioskuka.catalog.a514148dfa7e47595809",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -173,7 +173,7 @@
       "size": 36012506
     },
     {
-      "name": "网易云音乐",
+      "name": "NetEase Cloud Music (网易云音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.b725ddab60a2b3a89c7f",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -209,7 +209,7 @@
       "size": 110986422
     },
     {
-      "name": "酷狗音乐",
+      "name": "KuGou Music (酷狗音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.1668dae33e797ee0f8f5",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -245,7 +245,7 @@
       "size": 3127577149
     },
     {
-      "name": "开心消消乐",
+      "name": "Anipop (开心消消乐)",
       "bundleIdentifier": "com.ioskuka.catalog.7b6e591c265ffabe8db5",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -293,7 +293,7 @@
       "size": 360070658
     },
     {
-      "name": "潜水员戴夫",
+      "name": "DAVE THE DIVER (潜水员戴夫)",
       "bundleIdentifier": "com.ioskuka.catalog.d0ed90109c479ae52c14",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -305,7 +305,7 @@
       "size": 74063274
     },
     {
-      "name": "红警2资源包",
+      "name": "Command & Conquer: Red Alert 2 - Resource Pack (红警2资源包)",
       "bundleIdentifier": "com.ioskuka.catalog.1a6d79e6105de4dc13f5",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -317,7 +317,7 @@
       "size": 119336846
     },
     {
-      "name": "百度网盘",
+      "name": "Baidu Netdisk (百度网盘)",
       "bundleIdentifier": "com.ioskuka.catalog.4e39bd5885a7e958ac84",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -341,7 +341,7 @@
       "size": 297125859
     },
     {
-      "name": "红警2",
+      "name": "Command & Conquer: Red Alert 2 (红警2)",
       "bundleIdentifier": "com.ioskuka.catalog.83ff840aa752277a34b5",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -353,7 +353,7 @@
       "size": 257872523
     },
     {
-      "name": "模拟人生",
+      "name": "The Sims FreePlay (模拟人生)",
       "bundleIdentifier": "com.ioskuka.catalog.15a3d5b95e01dcae4a56",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -365,7 +365,7 @@
       "size": 51751498
     },
     {
-      "name": "饥饿鲨：世界",
+      "name": "Hungry Shark World (饥饿鲨：世界)",
       "bundleIdentifier": "com.ioskuka.catalog.7cf3bf6249f831edeb98",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -377,7 +377,7 @@
       "size": 490702098
     },
     {
-      "name": "小红书液态玻璃版",
+      "name": "rednote - Liquid Glass Edition (小红书液态玻璃版)",
       "bundleIdentifier": "com.ioskuka.catalog.c86d3e4043d83b9410a7",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -485,7 +485,7 @@
       "size": 1677721600
     },
     {
-      "name": "行尸走肉",
+      "name": "The Walking Dead (行尸走肉)",
       "bundleIdentifier": "com.ioskuka.catalog.8c92a3afda251ac4c4f1",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -509,7 +509,7 @@
       "size": 717716997
     },
     {
-      "name": "房产达人",
+      "name": "House Flipper (房产达人)",
       "bundleIdentifier": "com.ioskuka.catalog.5d3f5b7c0cd042636a30",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -521,7 +521,7 @@
       "size": 178597947
     },
     {
-      "name": "欧洲卡车模拟器3",
+      "name": "Truckers of Europe 3 (欧洲卡车模拟器3)",
       "bundleIdentifier": "com.ioskuka.catalog.5451521d23e05cbfd025",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -629,7 +629,7 @@
       "size": 756433943
     },
     {
-      "name": "星露谷物语",
+      "name": "Stardew Valley (星露谷物语)",
       "bundleIdentifier": "com.ioskuka.catalog.d93cb7adc44524227a9b",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -725,7 +725,7 @@
       "size": 94894108
     },
     {
-      "name": "思维导图",
+      "name": "MindLine Mind Map (思维导图)",
       "bundleIdentifier": "com.ioskuka.catalog.727b1b086418b6531622",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -737,7 +737,7 @@
       "size": 188439117
     },
     {
-      "name": "地球末日:生存",
+      "name": "Last Day on Earth: Survival (地球末日:生存)",
       "bundleIdentifier": "com.ioskuka.catalog.365d006833c8c9b3b697",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -749,7 +749,7 @@
       "size": 202966090
     },
     {
-      "name": "饥荒联机版",
+      "name": "Don't Starve Together (饥荒联机版)",
       "bundleIdentifier": "com.ioskuka.catalog.93b83eab6eeb2cfb2c1b",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -821,7 +821,7 @@
       "size": 12063560
     },
     {
-      "name": "恶果之地",
+      "name": "Juicy Realm (恶果之地)",
       "bundleIdentifier": "com.ioskuka.catalog.73761be857634d062b5d",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -953,7 +953,7 @@
       "size": 6844573
     },
     {
-      "name": "企业微信",
+      "name": "WeCom (企业微信)",
       "bundleIdentifier": "com.ioskuka.catalog.b42cf4233afb5691077e",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -965,7 +965,7 @@
       "size": 55189321
     },
     {
-      "name": "帝国传奇：像素英雄",
+      "name": "Empires Game (帝国传奇：像素英雄)",
       "bundleIdentifier": "com.ioskuka.catalog.bbc99a468575db4198c8",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1001,7 +1001,7 @@
       "size": 899038577
     },
     {
-      "name": "Doka相机",
+      "name": "CPCam (Doka相机)",
       "bundleIdentifier": "com.ioskuka.catalog.75e2d06189e46c75f40c",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1085,7 +1085,7 @@
       "size": 78499585
     },
     {
-      "name": "梦想城镇",
+      "name": "Township (梦想城镇)",
       "bundleIdentifier": "com.ioskuka.catalog.5febc348e9ff73da14ff",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1097,7 +1097,7 @@
       "size": 67783968
     },
     {
-      "name": "梦想城镇",
+      "name": "Township (梦想城镇)",
       "bundleIdentifier": "com.ioskuka.catalog.8eda2ba13955b616037a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1335,7 +1335,7 @@
       ]
     },
     {
-      "name": "极简阅读",
+      "name": "ZenReader - Read ebooks easily (极简阅读)",
       "bundleIdentifier": "com.ioskuka.catalog.e55a31815ea013976c8b",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1359,7 +1359,7 @@
       "size": 35878644
     },
     {
-      "name": "部落冲突",
+      "name": "Clash of Clans (部落冲突)",
       "bundleIdentifier": "com.ioskuka.catalog.6d6402630b840705fca1",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1407,7 +1407,7 @@
       "size": 315673805
     },
     {
-      "name": "封魔大陆",
+      "name": "Land of Demon (封魔大陆)",
       "bundleIdentifier": "com.ioskuka.catalog.bfb34b5782fd1f601c5f",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1419,7 +1419,7 @@
       "size": 190701683
     },
     {
-      "name": "开心消消乐",
+      "name": "Anipop (开心消消乐)",
       "bundleIdentifier": "com.ioskuka.catalog.f1c67de058e4333e7034",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1431,7 +1431,7 @@
       "size": 94940541
     },
     {
-      "name": "皇室战争",
+      "name": "Clash Royale (皇室战争)",
       "bundleIdentifier": "com.ioskuka.catalog.c5cc021ab8437e333dbd",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1515,7 +1515,7 @@
       "size": 451726541
     },
     {
-      "name": "樱花动漫",
+      "name": "HarborWisp - Moss Beacon (樱花动漫)",
       "bundleIdentifier": "com.ioskuka.catalog.103177f6a55e91d43c45",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1635,7 +1635,7 @@
       "size": 1153433600
     },
     {
-      "name": "指尖帝国",
+      "name": "War of Empire Conquest(3V3) (指尖帝国)",
       "bundleIdentifier": "com.ioskuka.catalog.f4285f4635652835bd03",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1755,7 +1755,7 @@
       "size": 150994944
     },
     {
-      "name": "光·遇",
+      "name": "Sky: Children of the Light (光·遇)",
       "bundleIdentifier": "com.ioskuka.catalog.832790733261859837b6",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1803,7 +1803,7 @@
       "size": 454442353
     },
     {
-      "name": "战魂铭人",
+      "name": "Otherworld Legends (战魂铭人)",
       "bundleIdentifier": "com.ioskuka.catalog.d700dca771414e2702fa",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1935,7 +1935,7 @@
       "size": 27074232
     },
     {
-      "name": "封魔大陆",
+      "name": "Land of Demon (封魔大陆)",
       "bundleIdentifier": "com.ioskuka.catalog.74f9e17bc25458cba316",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -2319,7 +2319,7 @@
       "size": 209715200
     },
     {
-      "name": "恶果之地",
+      "name": "Juicy Realm (恶果之地)",
       "bundleIdentifier": "com.ioskuka.catalog.06cf668a860f2d9ef4b4",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -2499,7 +2499,7 @@
       "size": 345505792
     },
     {
-      "name": "光遇国际版",
+      "name": "Sky: Children of the Light - International (光遇国际版)",
       "bundleIdentifier": "com.ioskuka.catalog.b6936b97ea224a973cb4",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -2523,7 +2523,7 @@
       "size": 103358136
     },
     {
-      "name": "植物大战僵尸杂交版",
+      "name": "Plants vs. Zombies Hybrid Edition (植物大战僵尸杂交版)",
       "bundleIdentifier": "com.ioskuka.catalog.34f1ba1d9f0a2322151e",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -2535,7 +2535,7 @@
       "size": 85983232
     },
     {
-      "name": "植物大战僵尸杂交版",
+      "name": "Plants vs. Zombies Hybrid Edition (植物大战僵尸杂交版)",
       "bundleIdentifier": "com.ioskuka.catalog.c73745691e83dbce1298",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -2955,7 +2955,7 @@
       "size": 1887436800
     },
     {
-      "name": "钉钉",
+      "name": "DingTalk (钉钉)",
       "bundleIdentifier": "com.ioskuka.catalog.68918d86d6ef8a065065",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3003,7 +3003,7 @@
       "size": 204472320
     },
     {
-      "name": "地球末日:生存",
+      "name": "Last Day on Earth: Survival (地球末日:生存)",
       "bundleIdentifier": "com.ioskuka.catalog.6ee0d75fc9fd744ec17a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3039,7 +3039,7 @@
       "size": 207618048
     },
     {
-      "name": "快手",
+      "name": "Kuaishou (快手)",
       "bundleIdentifier": "com.ioskuka.catalog.f493dcb95eb4fd75b99e",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3135,7 +3135,7 @@
       "size": 45822771
     },
     {
-      "name": "哔哩哔哩",
+      "name": "bilibili (哔哩哔哩)",
       "bundleIdentifier": "com.ioskuka.catalog.7aba4907e4bdd077f654",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3171,7 +3171,7 @@
       "size": 244192379
     },
     {
-      "name": "彩云天气Pro",
+      "name": "Caiyun Weather - Pro (彩云天气Pro)",
       "bundleIdentifier": "com.ioskuka.catalog.7729b285469fbc4fe8b8",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3195,7 +3195,7 @@
       "size": 40894464
     },
     {
-      "name": "彩云天气",
+      "name": "Caiyun Weather (彩云天气)",
       "bundleIdentifier": "com.ioskuka.catalog.43279576d73b27f2f836",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3711,7 +3711,7 @@
       "size": 117440512
     },
     {
-      "name": "豆瓣",
+      "name": "Douban (豆瓣)",
       "bundleIdentifier": "com.ioskuka.catalog.f535cf6be0bdc10cf192",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3735,7 +3735,7 @@
       "size": 1468006400
     },
     {
-      "name": "星露谷物语",
+      "name": "Stardew Valley (星露谷物语)",
       "bundleIdentifier": "com.ioskuka.catalog.f7a57b47321c2cb5b448",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3747,7 +3747,7 @@
       "size": 1468006400
     },
     {
-      "name": "星露谷物语+",
+      "name": "Stardew Valley+ (星露谷物语+)",
       "bundleIdentifier": "com.ioskuka.catalog.8e7fbf5a1ded07a1509b",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3771,7 +3771,7 @@
       "size": 740001055
     },
     {
-      "name": "我的世界",
+      "name": "Minecraft (我的世界)",
       "bundleIdentifier": "com.ioskuka.catalog.13ec75d86c7b24d80464",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4455,7 +4455,7 @@
       "size": 42446356
     },
     {
-      "name": "无他相机",
+      "name": "Wuta Camera - Nice Shot Always (无他相机)",
       "bundleIdentifier": "com.ioskuka.catalog.6fe91614753484eacecb",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4491,7 +4491,7 @@
       "size": 388518380
     },
     {
-      "name": "百度地图",
+      "name": "Baidu Maps (百度地图)",
       "bundleIdentifier": "com.ioskuka.catalog.e49f71a926645e978b8a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4503,7 +4503,7 @@
       "size": 203801231
     },
     {
-      "name": "高德地图",
+      "name": "Amap (高德地图)",
       "bundleIdentifier": "com.ioskuka.catalog.e44b9f1cafd5d1f8457b",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4551,7 +4551,7 @@
       "size": 106661151
     },
     {
-      "name": "美颜相机",
+      "name": "BeautyCam (美颜相机)",
       "bundleIdentifier": "com.ioskuka.catalog.9d57aab599b2dd6523b6",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4563,7 +4563,7 @@
       "size": 4026532
     },
     {
-      "name": "美图秀秀",
+      "name": "Meitu (美图秀秀)",
       "bundleIdentifier": "com.ioskuka.catalog.e2e988027a851f45ae0d",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4695,7 +4695,7 @@
       "size": 203843174
     },
     {
-      "name": "微博",
+      "name": "Weibo (微博)",
       "bundleIdentifier": "com.ioskuka.catalog.79117e1efa0f2b894b7b",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4923,7 +4923,7 @@
       "size": 92861891
     },
     {
-      "name": "知乎",
+      "name": "Zhihu (知乎)",
       "bundleIdentifier": "com.ioskuka.catalog.fc73de111080157da737",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4995,7 +4995,7 @@
       "size": 2621440
     },
     {
-      "name": "QQ音乐",
+      "name": "QQ Music (QQ音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.81fef706e4ee0fb637cd",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5151,7 +5151,7 @@
       "size": 102970163
     },
     {
-      "name": "喜马拉雅",
+      "name": "Ximalaya (喜马拉雅)",
       "bundleIdentifier": "com.ioskuka.catalog.1a787b10d1b404cae93d",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5271,7 +5271,7 @@
       "size": 2128609
     },
     {
-      "name": "百度网盘",
+      "name": "Baidu Netdisk (百度网盘)",
       "bundleIdentifier": "com.ioskuka.catalog.4ac7b07150cac0c98374",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5295,7 +5295,7 @@
       "size": 404236534
     },
     {
-      "name": "爱奇艺",
+      "name": "iQIYI (爱奇艺)",
       "bundleIdentifier": "com.ioskuka.catalog.e567b1a3a95ab59c0558",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5319,7 +5319,7 @@
       "size": 376438784
     },
     {
-      "name": "优酷",
+      "name": "YOUKU (优酷)",
       "bundleIdentifier": "com.ioskuka.catalog.aa601d535b2aa447e253",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6015,7 +6015,7 @@
       "size": 409835930
     },
     {
-      "name": "京东",
+      "name": "JD.com (京东)",
       "bundleIdentifier": "com.ioskuka.catalog.9b5a8452ab4201a78628",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6039,7 +6039,7 @@
       "size": 121309757
     },
     {
-      "name": "今日头条",
+      "name": "Toutiao (今日头条)",
       "bundleIdentifier": "com.ioskuka.catalog.77003a54c538e0a42dea",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -7803,7 +7803,7 @@
       "size": 248963400
     },
     {
-      "name": "壁纸",
+      "name": "Cuto Wallpaper (壁纸)",
       "bundleIdentifier": "com.ioskuka.catalog.48d8fd03fbbacb170496",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9003,7 +9003,7 @@
       "size": 21978153
     },
     {
-      "name": "UC浏览器",
+      "name": "UC Browser (UC浏览器)",
       "bundleIdentifier": "com.ioskuka.catalog.7d44237d73a1a7b2f033",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9015,7 +9015,7 @@
       "size": 46682604
     },
     {
-      "name": "百度贴吧",
+      "name": "Baidu Tieba (百度贴吧)",
       "bundleIdentifier": "com.ioskuka.catalog.52f697841e76ac5bc661",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -10183,7 +10183,7 @@
       ]
     },
     {
-      "name": "淘宝",
+      "name": "Taobao (淘宝)",
       "bundleIdentifier": "com.ioskuka.catalog.bd6074634fced721ac0e",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -10507,7 +10507,7 @@
       "size": 16210985
     },
     {
-      "name": "光遇",
+      "name": "Sky: Children of the Light (光遇)",
       "bundleIdentifier": "com.ioskuka.catalog.886e1ab956842ef55be0",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -10591,7 +10591,7 @@
       "size": 70715965
     },
     {
-      "name": "地铁跑酷",
+      "name": "Subway Surfers (地铁跑酷)",
       "bundleIdentifier": "com.ioskuka.catalog.d617ff3f9f25a461fb6f",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -11043,7 +11043,7 @@
       "size": 103421051
     },
     {
-      "name": "酷狗音乐",
+      "name": "KuGou Music (酷狗音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.3baf2c3c7d25a51d9cf7",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -11317,7 +11317,7 @@
       "size": 603151401
     },
     {
-      "name": "恶果之地",
+      "name": "Juicy Realm (恶果之地)",
       "bundleIdentifier": "com.ioskuka.catalog.a9de87870e13132a61cf",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -11987,7 +11987,7 @@
       "size": 10810819
     },
     {
-      "name": "植物大战僵尸2",
+      "name": "Plants vs. Zombies™ 2 (植物大战僵尸2)",
       "bundleIdentifier": "com.ioskuka.catalog.be2ec1089c5efc193b37",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -11999,7 +11999,7 @@
       "size": 8420065
     },
     {
-      "name": "百度",
+      "name": "Baidu (百度)",
       "bundleIdentifier": "com.ioskuka.catalog.32792a7c7c502b565772",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -13179,7 +13179,7 @@
       "size": 29800530
     },
     {
-      "name": "饿了么",
+      "name": "Ele.me (饿了么)",
       "bundleIdentifier": "com.ioskuka.catalog.b255c4f65d9597aa8371",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -13851,7 +13851,7 @@
       "size": 15854469
     },
     {
-      "name": "明日方舟",
+      "name": "Arknights (明日方舟)",
       "bundleIdentifier": "com.ioskuka.catalog.7e13ad95a072ee387f2a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -14495,7 +14495,7 @@
       "size": 248239882
     },
     {
-      "name": "支付宝",
+      "name": "Alipay (支付宝)",
       "bundleIdentifier": "com.ioskuka.catalog.569c33bbc262a66140a9",
       "developerName": "Kuka Source",
       "subtitle": "Có liên kết tải từ nguồn Kuka",
@@ -14741,7 +14741,7 @@
       "size": 533347697
     },
     {
-      "name": "元气骑士：国际服",
+      "name": "Soul Knight - International (元气骑士：国际服)",
       "bundleIdentifier": "com.ioskuka.catalog.ee810eb96e18eeb465ee",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -16553,7 +16553,7 @@
       "size": 56727962
     },
     {
-      "name": "地铁跑酷国际",
+      "name": "Subway Surfers - International (地铁跑酷国际)",
       "bundleIdentifier": "com.ioskuka.catalog.9167a299fde411b53119",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -17621,7 +17621,7 @@
       "size": 112166175
     },
     {
-      "name": "模拟人生",
+      "name": "The Sims FreePlay (模拟人生)",
       "bundleIdentifier": "com.ioskuka.catalog.5ebabce00cc14ea55274",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -20165,7 +20165,7 @@
       "size": 15445524
     },
     {
-      "name": "夸克",
+      "name": "Quark (夸克)",
       "bundleIdentifier": "com.ioskuka.catalog.a3f93690a588d51d142c",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -23945,7 +23945,7 @@
       "size": 140163154
     },
     {
-      "name": "死亡细胞",
+      "name": "Dead Cells (死亡细胞)",
       "bundleIdentifier": "com.ioskuka.catalog.9b20d938ea423a655fac",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -25589,7 +25589,7 @@
       "size": 136031764
     },
     {
-      "name": "植物大战僵尸2国际版",
+      "name": "Plants vs. Zombies™ 2 - International (植物大战僵尸2国际版)",
       "bundleIdentifier": "com.ioskuka.catalog.bc2e79d2d0af66f3a932",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -26297,7 +26297,7 @@
       "size": 135685734
     },
     {
-      "name": "萌龙大乱斗",
+      "name": "Dragon Mania Legends (萌龙大乱斗)",
       "bundleIdentifier": "com.ioskuka.catalog.adf4dd3b8e1454608027",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -27003,7 +27003,7 @@
       "size": 122872136
     },
     {
-      "name": "白猫Project",
+      "name": "White Cat Project (白猫Project)",
       "bundleIdentifier": "com.ioskuka.catalog.ba05e30a2bc69b72b5bc",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -27051,7 +27051,7 @@
       "size": 79775662
     },
     {
-      "name": "掘地求升+",
+      "name": "Getting Over It+ (掘地求升+)",
       "bundleIdentifier": "com.ioskuka.catalog.e752618b46625d225adc",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -27135,7 +27135,7 @@
       "size": 130128282
     },
     {
-      "name": "传说对决  Arena of Valor",
+      "name": "Arena of Valor (传说对决  Arena of Valor)",
       "bundleIdentifier": "com.ioskuka.catalog.f42c7e6729df70da2f44",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -27147,7 +27147,7 @@
       "size": 178195005
     },
     {
-      "name": "狐猴浏览器",
+      "name": "Lemur Browser (狐猴浏览器)",
       "bundleIdentifier": "com.ioskuka.catalog.f7057dac8a945ed73f05",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
