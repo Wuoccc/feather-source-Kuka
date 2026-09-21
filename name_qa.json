@@ -1,0 +1,48 @@
+{
+  "apps": 2243,
+  "totalNamesContainingCJK": 1385,
+  "startsWithCJK": 0,
+  "noLatinBeforeFirstCJK": 10,
+  "bad": [
+    {
+      "index": 254,
+      "name": "112接线员"
+    },
+    {
+      "index": 737,
+      "name": "777影视"
+    },
+    {
+      "index": 1109,
+      "name": "30天内练出六块腹肌"
+    },
+    {
+      "index": 1507,
+      "name": "777 影视"
+    },
+    {
+      "index": 1725,
+      "name": "168轻断食"
+    },
+    {
+      "index": 1834,
+      "name": "8毫米相机"
+    },
+    {
+      "index": 1918,
+      "name": "2024人体解剖学图谱"
+    },
+    {
+      "index": 2076,
+      "name": "2023人体解剖学图谱"
+    },
+    {
+      "index": 2191,
+      "name": "360行车记录仪"
+    },
+    {
+      "index": 2238,
+      "name": "555电影"
+    }
+  ]
+}
