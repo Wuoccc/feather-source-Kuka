@@ -103,6 +103,14 @@ with open(APPS,"r",encoding="utf-8") as f:
 with open(CAND,"r",encoding="utf-8") as f:
     cand=json.load(f)
 
+alias_db={}
+alias_path=Path("translated_name_aliases.json")
+if alias_path.exists():
+    try:
+        alias_db=(json.loads(alias_path.read_text(encoding="utf-8")).get("aliases") or {})
+    except Exception:
+        alias_db={}
+
 by_index={r.get("index"):r for r in cand if isinstance(r,dict) and isinstance(r.get("index"),int)}
 
 targets=[]
@@ -120,7 +128,7 @@ for i,name,base,var in targets:
     apple_ok=(r.get("status")=="resolved" and r.get("english") and (
         (r.get("score") or 0)>=180 or str(r.get("englishSource") or "").startswith("lookup_")
     ))
-    if not apple_ok and base not in CURATED:
+    if not apple_ok and base not in CURATED and base not in alias_db:
         bases.add(base)
 
 translations={}
@@ -146,6 +154,9 @@ for i,original,base,var in targets:
     elif base in CURATED:
         english=CURATED[base]
         source="curated"
+    elif base in alias_db and alias_db[base].get("english"):
+        english=clean_en(alias_db[base].get("english"))
+        source=alias_db[base].get("source") or "translation"
     else:
         english=clean_en(translations.get(base))
         source="translation"
