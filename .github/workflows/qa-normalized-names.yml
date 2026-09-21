@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - ".github/workflows/qa-normalized-names.yml"
+      - "apps.json"
 permissions:
   contents: write
 jobs:
