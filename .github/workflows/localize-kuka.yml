@@ -33,3 +33,5 @@ jobs:
             git commit -m "Localize Kuka source to Vietnamese"
             git push origin main
           fi
+
+# trigger localization
