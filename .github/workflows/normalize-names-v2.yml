@@ -1,0 +1,34 @@
+name: Normalize app names v2
+
+on:
+  push:
+    paths:
+      - ".github/workflows/normalize-names-v2.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Normalize names from Apple
+        run: python tools/normalize_names_v2.py
+      - name: Commit normalized source and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add apps.json .name-normalization-v2-report.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Normalize app names from Apple v2"
+            git pull --rebase origin main
+            git push origin main
+          fi
