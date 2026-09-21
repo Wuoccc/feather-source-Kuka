@@ -5,7 +5,7 @@
   "website": "https://app.ioskuka.com/appstore",
   "apps": [
     {
-      "name": "元气骑士",
+      "name": "Soul Knight (元气骑士)",
       "bundleIdentifier": "com.ioskuka.catalog.e093260e5076abbd3e91",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -89,7 +89,7 @@
       "size": 531009372
     },
     {
-      "name": "rednote",
+      "name": "rednote (小红书)",
       "bundleIdentifier": "com.ioskuka.catalog.4ee54c7f6c76296d635a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -101,7 +101,7 @@
       "size": 209022562
     },
     {
-      "name": "Duolingo: Language & Chess",
+      "name": "Duolingo (多邻国)",
       "bundleIdentifier": "com.ioskuka.catalog.ed6b3855dfdf85f29434",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -365,7 +365,7 @@
       "size": 51751498
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.7cf3bf6249f831edeb98",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -377,7 +377,7 @@
       "size": 490702098
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.c86d3e4043d83b9410a7",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -389,7 +389,7 @@
       "size": 490170127
     },
     {
-      "name": "网易云音乐",
+      "name": "NetEase Cloud Music (网易云音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.d2c71fcc677722d8c1f7",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -413,7 +413,7 @@
       "size": 444843674
     },
     {
-      "name": "百度网盘",
+      "name": "Baidu Netdisk (百度网盘)",
       "bundleIdentifier": "com.ioskuka.catalog.c407ee99ba6df967cf3d",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -725,7 +725,7 @@
       "size": 94894108
     },
     {
-      "name": "Duolingo: Language & Chess",
+      "name": "Duolingo (多邻国)",
       "bundleIdentifier": "com.ioskuka.catalog.727b1b086418b6531622",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -737,7 +737,7 @@
       "size": 188439117
     },
     {
-      "name": "Duolingo: Language & Chess",
+      "name": "Duolingo (多邻国)",
       "bundleIdentifier": "com.ioskuka.catalog.365d006833c8c9b3b697",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -773,7 +773,7 @@
       "size": 69277062
     },
     {
-      "name": "高德地图",
+      "name": "Amap (高德地图)",
       "bundleIdentifier": "com.ioskuka.catalog.b5d4e86dd49ce1dce968",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1301,7 +1301,7 @@
       "size": 198505923
     },
     {
-      "name": "酷狗音乐",
+      "name": "KuGou Music (酷狗音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.ad85487cd41a6509285a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1371,7 +1371,7 @@
       "size": 2289239
     },
     {
-      "name": "微博",
+      "name": "Weibo (微博)",
       "bundleIdentifier": "com.ioskuka.catalog.8eaa8b57f4f0ed96c16a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -1539,7 +1539,7 @@
       "size": 83886080
     },
     {
-      "name": "WeCom",
+      "name": "WeCom (企业微信)",
       "bundleIdentifier": "com.ioskuka.catalog.94bd5929e2f66ba46925",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -2199,7 +2199,7 @@
       "size": 216876974
     },
     {
-      "name": "光·遇",
+      "name": "Sky: Children of the Light (光·遇)",
       "bundleIdentifier": "com.ioskuka.catalog.7cc5dae83c8a817ea97c",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -2403,7 +2403,7 @@
       "size": 27755807
     },
     {
-      "name": "酷我音乐",
+      "name": "Kuwo Music (酷我音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.035ab56d2330503b7b2a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3339,7 +3339,7 @@
       "size": 158701978
     },
     {
-      "name": "钉钉",
+      "name": "DingTalk (钉钉)",
       "bundleIdentifier": "com.ioskuka.catalog.2d8efefebec1e3b00dfa",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3411,7 +3411,7 @@
       "size": 452984832
     },
     {
-      "name": "快手",
+      "name": "Kuaishou (快手)",
       "bundleIdentifier": "com.ioskuka.catalog.9d733e154f099837fff6",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3507,7 +3507,7 @@
       "size": 116391936
     },
     {
-      "name": "哔哩哔哩",
+      "name": "bilibili (哔哩哔哩)",
       "bundleIdentifier": "com.ioskuka.catalog.15b1856536d980929253",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -3999,7 +3999,7 @@
       "size": 256848691
     },
     {
-      "name": "豆瓣",
+      "name": "Douban (豆瓣)",
       "bundleIdentifier": "com.ioskuka.catalog.ab7650ed1edd6b0cb1a9",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4455,7 +4455,7 @@
       "size": 42446356
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.6fe91614753484eacecb",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4479,7 +4479,7 @@
       "size": 393394258
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.cf1598904521a4135b6a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -4683,7 +4683,7 @@
       "size": 9437184
     },
     {
-      "name": "百度地图",
+      "name": "Baidu Maps (百度地图)",
       "bundleIdentifier": "com.ioskuka.catalog.efa9a4fb05451fd6ffe2",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5031,7 +5031,7 @@
       "size": 11146363
     },
     {
-      "name": "知乎",
+      "name": "Zhihu (知乎)",
       "bundleIdentifier": "com.ioskuka.catalog.7c0c2fd2342f94750595",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5079,7 +5079,7 @@
       "size": 205709640
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.a6bcb0aa806a01bc33c3",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5091,7 +5091,7 @@
       "size": 379584512
     },
     {
-      "name": "QQ音乐",
+      "name": "QQ Music (QQ音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.b1e49d859b2b764325c3",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5127,7 +5127,7 @@
       "size": 299641078
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.a2f9b1b46da15cea6d70",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5187,7 +5187,7 @@
       "size": 6081741
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.ce030125df6c74e7dde3",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5235,7 +5235,7 @@
       "size": 193210614
     },
     {
-      "name": "喜马拉雅",
+      "name": "Ximalaya (喜马拉雅)",
       "bundleIdentifier": "com.ioskuka.catalog.3841951e76bf30e46b3c",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5271,7 +5271,7 @@
       "size": 2128609
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.4ac7b07150cac0c98374",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5283,7 +5283,7 @@
       "size": 404771308
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.bb2cae77ed8163de2579",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5343,7 +5343,7 @@
       "size": 191669207
     },
     {
-      "name": "百度网盘",
+      "name": "Baidu Netdisk (百度网盘)",
       "bundleIdentifier": "com.ioskuka.catalog.4aedf2e88f4e349c1dd6",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5367,7 +5367,7 @@
       "size": 34603008
     },
     {
-      "name": "爱奇艺",
+      "name": "iQIYI (爱奇艺)",
       "bundleIdentifier": "com.ioskuka.catalog.3b4832b86afa68712ac4",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5391,7 +5391,7 @@
       "size": 290854011
     },
     {
-      "name": "优酷",
+      "name": "YOUKU (优酷)",
       "bundleIdentifier": "com.ioskuka.catalog.8f9e911879675c9f2369",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5559,7 +5559,7 @@
       "size": 1447034880
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.453269adf79ee382617a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5799,7 +5799,7 @@
       "size": 119107748
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.0444c992df4a1a993695",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5811,7 +5811,7 @@
       "size": 427839980
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.02401d9101b2bf0a70a3",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5919,7 +5919,7 @@
       "size": 31216108
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.ea44640c2f3af0dd37ac",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -5931,7 +5931,7 @@
       "size": 419807887
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.d70dfa7776c6b17ec4a8",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6063,7 +6063,7 @@
       "size": 48800727
     },
     {
-      "name": "京东",
+      "name": "JD.com (京东)",
       "bundleIdentifier": "com.ioskuka.catalog.9f22fd4d71110f5890da",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6087,7 +6087,7 @@
       "size": 75770102
     },
     {
-      "name": "今日头条",
+      "name": "Toutiao (今日头条)",
       "bundleIdentifier": "com.ioskuka.catalog.95b162b4b164b1f05177",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6159,7 +6159,7 @@
       "size": 83057705
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.ab17079fb482632811bd",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6171,7 +6171,7 @@
       "size": 419073884
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.fa7a6d265d56c494e7ee",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6459,7 +6459,7 @@
       "size": 31593595
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.7e7fddf5c48498b1a348",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6471,7 +6471,7 @@
       "size": 398144307
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.a07e5e621886357f4818",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6483,7 +6483,7 @@
       "size": 397620019
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.056a8cf5f6493383d26c",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6495,7 +6495,7 @@
       "size": 417595392
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.5e263df164ac4d69f376",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6507,7 +6507,7 @@
       "size": 417060618
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.322b1e57929bc5bf442b",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6531,7 +6531,7 @@
       "size": 83120620
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.b2b4fea2f4c1592e6782",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6543,7 +6543,7 @@
       "size": 398846853
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.e6542f633b46ca411c84",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6891,7 +6891,7 @@
       "size": 19922944
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.a5da5164449eebf4fb6a",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -6903,7 +6903,7 @@
       "size": 396655329
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.eee3726fe36982625d28",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -7059,7 +7059,7 @@
       "size": 187600732
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.b3ad61f0866ea9e542e4",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -7071,7 +7071,7 @@
       "size": 413076029
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.262cc76890384243ee7e",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -7371,7 +7371,7 @@
       "size": 69719818
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.bd3922af827204fc463f",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -7743,7 +7743,7 @@
       "size": 20394803
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.25942ce9963c98c700dc",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -8235,7 +8235,7 @@
       "size": 176779428
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.1efd227f7dcac8bb2c41",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -8247,7 +8247,7 @@
       "size": 394799350
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.d4acc0b9b9f7ec742c7b",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9027,7 +9027,7 @@
       "size": 0
     },
     {
-      "name": "UC浏览器",
+      "name": "UC Browser (UC浏览器)",
       "bundleIdentifier": "com.ioskuka.catalog.c855d7fa894f16eb1bbc",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9039,7 +9039,7 @@
       "size": 304443556
     },
     {
-      "name": "百度贴吧",
+      "name": "Baidu Tieba (百度贴吧)",
       "bundleIdentifier": "com.ioskuka.catalog.502ff1fa976fd58f05cd",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9099,7 +9099,7 @@
       "size": 57828966
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.3917b22e1ce7a773e321",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9361,7 +9361,7 @@
       "size": 155283620
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.fd96ca3c3f7d5520cae0",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9373,7 +9373,7 @@
       "size": 374960292
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.00177bac75b3fc72c8b8",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9657,7 +9657,7 @@
       "size": 79219917
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.e098c3b801fc2a193073",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9669,7 +9669,7 @@
       "size": 384366019
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.78fe727c0cd90c790cba",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9705,7 +9705,7 @@
       "size": 142795080
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.35a31fad75e462479b89",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -9717,7 +9717,7 @@
       "size": 331612160
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.f1992e984f6ad8480faa",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -10207,7 +10207,7 @@
       "size": 136713339
     },
     {
-      "name": "淘宝",
+      "name": "Taobao (淘宝)",
       "bundleIdentifier": "com.ioskuka.catalog.292596f8f0fbebbf4ad6",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -10531,7 +10531,7 @@
       "size": 51537510
     },
     {
-      "name": "光遇",
+      "name": "Sky: Children of the Light (光遇)",
       "bundleIdentifier": "com.ioskuka.catalog.a93795c5a2c5e8708ce4",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -11067,7 +11067,7 @@
       "size": 125158031
     },
     {
-      "name": "酷狗音乐",
+      "name": "KuGou Music (酷狗音乐)",
       "bundleIdentifier": "com.ioskuka.catalog.f4023693db7100e852e6",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -12023,7 +12023,7 @@
       "size": 2411724800
     },
     {
-      "name": "百度",
+      "name": "Baidu (百度)",
       "bundleIdentifier": "com.ioskuka.catalog.2d03fbbc79efe79ba1ae",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -13191,7 +13191,7 @@
       "size": 4812964
     },
     {
-      "name": "饿了么",
+      "name": "Ele.me (饿了么)",
       "bundleIdentifier": "com.ioskuka.catalog.a6590a22ba59b9723ac7",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -13863,7 +13863,7 @@
       "size": 106178806
     },
     {
-      "name": "明日方舟",
+      "name": "Arknights (明日方舟)",
       "bundleIdentifier": "com.ioskuka.catalog.070e6a9d083c6a1e82dc",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -14517,7 +14517,7 @@
       ]
     },
     {
-      "name": "Alipay - Simplify Your Life",
+      "name": "Alipay (支付宝)",
       "bundleIdentifier": "com.ioskuka.catalog.001c9088b63c9bbb4bf4",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -15677,7 +15677,7 @@
       "size": 1876951040
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.8d63cad9d5b78ee9c8be",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -16457,7 +16457,7 @@
       "size": 48591012
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.c2eb08ffd55ab4760f11",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -16661,7 +16661,7 @@
       "size": 4456448
     },
     {
-      "name": "WeChat",
+      "name": "WeChat (微信)",
       "bundleIdentifier": "com.ioskuka.catalog.cd3b68526b5207ec6f61",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
@@ -20177,7 +20177,7 @@
       "size": 137499771
     },
     {
-      "name": "夸克",
+      "name": "Quark (夸克)",
       "bundleIdentifier": "com.ioskuka.catalog.e678427a6e933c648afe",
       "developerName": "Kuka Source",
       "subtitle": "Kuka chưa công khai liên kết tải cho mục này",
