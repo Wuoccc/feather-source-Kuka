@@ -53,6 +53,56 @@ CURATED={
 "掘地求升+":"Getting Over It+",
 "传说对决  Arena of Valor":"Arena of Valor",
 "狐猴浏览器":"Lemur Browser",
+"小红书":"rednote",
+"微信":"WeChat",
+"多邻国":"Duolingo",
+"支付宝":"Alipay",
+"企业微信":"WeCom",
+"网易云音乐":"NetEase Cloud Music",
+"酷狗音乐":"KuGou Music",
+"酷我音乐":"Kuwo Music",
+"百度网盘":"Baidu Netdisk",
+"哔哩哔哩":"bilibili",
+"QQ音乐":"QQ Music",
+"微博":"Weibo",
+"知乎":"Zhihu",
+"淘宝":"Taobao",
+"京东":"JD.com",
+"拼多多":"Pinduoduo",
+"美团":"Meituan",
+"饿了么":"Ele.me",
+"高德地图":"Amap",
+"百度地图":"Baidu Maps",
+"百度贴吧":"Baidu Tieba",
+"钉钉":"DingTalk",
+"飞书":"Feishu",
+"今日头条":"Toutiao",
+"快手":"Kuaishou",
+"优酷":"YOUKU",
+"爱奇艺":"iQIYI",
+"喜马拉雅":"Ximalaya",
+"豆瓣":"Douban",
+"百度":"Baidu",
+"UC浏览器":"UC Browser",
+"夸克浏览器":"Quark Browser",
+"夸克":"Quark",
+"王者荣耀":"Honor of Kings",
+"原神":"Genshin Impact",
+"崩坏：星穹铁道":"Honkai: Star Rail",
+"崩坏:星穹铁道":"Honkai: Star Rail",
+"崩坏3":"Honkai Impact 3rd",
+"明日方舟":"Arknights",
+"第五人格":"Identity V",
+"蛋仔派对":"Eggy Party",
+"鸣潮":"Wuthering Waves",
+"绝区零":"Zenless Zone Zero",
+"恋与深空":"Love and Deepspace",
+"光·遇":"Sky: Children of the Light",
+"光遇":"Sky: Children of the Light",
+"抖音":"Douyin",
+"美颜相机":"BeautyCam",
+"美图秀秀":"Meitu",
+"彩云天气":"Caiyun Weather",
 }
 
 def http_json(url,retries=3):
@@ -98,6 +148,23 @@ def clean_en(s):
     s=s.strip(" -—–_:：()（）[]【】")
     return s
 
+APPLE_BAD={"pro","epub","pdf","mobi","live","vip","hd","app","free","ai","ios","txt"}
+def apple_safe(r):
+    if r.get("status")!="resolved" or not r.get("english"):
+        return False
+    en=clean_en(r.get("english"))
+    if not en or en.lower() in APPLE_BAD:
+        return False
+    if len(en)<4:
+        return False
+    src=str(r.get("englishSource") or "")
+    score=r.get("score") or 0
+    if src.startswith("lookup_"):
+        return True
+    if src=="cn_title" and score>=180:
+        return True
+    return False
+
 with open(APPS,"r",encoding="utf-8") as f:
     data=json.load(f)
 with open(CAND,"r",encoding="utf-8") as f:
@@ -125,9 +192,7 @@ for i,a in enumerate(data.get("apps",[])):
 bases=set()
 for i,name,base,var in targets:
     r=by_index.get(i,{})
-    apple_ok=(r.get("status")=="resolved" and r.get("english") and (
-        (r.get("score") or 0)>=180 or str(r.get("englishSource") or "").startswith("lookup_")
-    ))
+    apple_ok=apple_safe(r)
     if not apple_ok and base not in CURATED and base not in alias_db:
         bases.add(base)
 
@@ -145,9 +210,7 @@ for i,original,base,var in targets:
     r=by_index.get(i,{})
     english=None
     source=None
-    apple_ok=(r.get("status")=="resolved" and r.get("english") and (
-        (r.get("score") or 0)>=180 or str(r.get("englishSource") or "").startswith("lookup_")
-    ))
+    apple_ok=apple_safe(r)
     if apple_ok:
         english=clean_en(r.get("english"))
         source="apple"
